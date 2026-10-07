@@ -567,10 +567,6 @@ When answering Nari18 Tissue-care questions:
 18. Do not provide a guaranteed stain-removal method unless it is explicitly supported by the product's care instructions.
 
 
-# 27. RAG Summary
-
-**Nari18 Tissue care = dry cleaning + gentle handling + controlled heat + protection of zari and embellishments + careful storage.**
-
 ### Key rules
 
 - **Cleaning:** Nari18's general guidance is dry clean only.
@@ -586,6 +582,3 @@ When answering Nari18 Tissue-care questions:
 - **Tailoring:** Consider lining, embroidery placement, borders, and seam finishing before cutting.
 - **Most important:** Always follow the care instructions for the exact Nari18 product.
 
-### Core RAG statement
-
-**When a customer asks how to care for a Nari18 Tissue or Tissue Silk suit, recommend professional dry cleaning as the general Nari18 guidance, while directing product-specific questions to the exact item's care instructions.**

@@ -309,7 +309,6 @@ Current examples include:
 - Rating: 5.0 from 10 reviews
 - Displayed as available
 
-These values are current storefront observations and can change with inventory, promotions, and catalog updates. Detailed product information should be handled in `muslin_products.md`.
 
 
 ## 13. Unstitched Muslin Format
@@ -396,7 +395,6 @@ Recommended characteristics include:
 - Minimal accessories
 
 Nari18 specifically lists office wear among the best uses for Muslin.
-
 For a highly structured professional appearance, Linen may be a better alternative because of its naturally crisp and structured character.
 
 
@@ -430,10 +428,9 @@ Its summer guide provides more detailed guidance:
 - Do not wring
 - Roll in a towel to remove excess water
 
-
 For Chikankari Muslin, Nari18 recommends turning the garment inside out, using cold water and mild detergent, avoiding wringing, drying in shade, and using reverse-side ironing with a cloth between the iron and fabric. Heavily embellished pieces may require dry cleaning.
 
-The dedicated `muslin_care.md` file should be used for detailed care questions.
+
 
 
 ## 19. Price Positioning

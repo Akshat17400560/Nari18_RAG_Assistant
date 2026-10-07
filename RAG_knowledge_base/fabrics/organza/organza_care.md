@@ -437,20 +437,3 @@ When answering Organza-care questions:
 11. Keep unstitched Organza clean, dry, protected from sunlight, and carefully stored before tailoring.
 12. When discussing tailoring, remember that Organza requires fabric-specific handling and finishing.
 
-
-## 23. RAG Summary
-
-**Nari18 Organza care = gentle handling + professional dry cleaning + controlled heat + careful storage.**
-
-Key rules:
-
-- **Cleaning:** Prefer professional dry cleaning; Nari18's fabric guide says dry clean only.
-- **Washing:** Avoid machine washing unless the product explicitly permits it.
-- **Stains:** Do not aggressively scrub or experiment with harsh stain removers.
-- **Ironing:** Use controlled low heat when permitted and protect the fabric with a pressing cloth.
-- **Embroidery:** Handle embroidery, zari, borders, and decorative work carefully.
-- **Jewellery:** Avoid sharp accessories that can snag the fabric.
-- **Storage:** Keep Organza clean, completely dry, protected from sunlight and excessive pressure.
-- **Unstitched fabric:** Preserve the fabric carefully before tailoring.
-- **Tailoring:** Use fabric-aware tailoring techniques and discuss lining before cutting.
-- **Most important:** Always follow the care instructions for the exact Nari18 product.

@@ -293,22 +293,4 @@ Nari18 can be understood through the following brand attributes:
 | Tailoring Model | Made-to-measure |
 | Brand Philosophy | Quality fabric, craftsmanship, and personalized fit |
 
-## RAG Usage
 
-Use this document when customers ask questions about:
-
-- Nari18's story
-- What Nari18 stands for
-- Nari18's philosophy
-- Nari18's approach to craftsmanship
-- Nari18's relationship with Indian textile heritage
-- Why Nari18 focuses on unstitched suits
-- Why Nari18 offers custom tailoring
-- Nari18's artisan sourcing
-- Chikankari and Nari18
-- Chanderi and Nari18
-- Hand-block printing and Nari18
-- What makes Nari18 different
-- How Nari18 combines traditional crafts with modern styling
-
-For exact company facts such as the founder, establishment year, address, phone number, email, store hours, product counts, and current commercial information, use `company_facts.md`.

@@ -498,15 +498,3 @@ When answering Muslin-care questions:
 14. Product-specific care instructions always take priority over generic Muslin guidance.
 15. For current product-specific care instructions, retrieve the individual product record.
 
-
-## 27. Summary
-
-Nari18's Muslin care philosophy is based on **gentle washing, minimal mechanical stress, careful drying, and controlled ironing**.
-
-The safest general routine is:
-
-**Cold/cool water → mild detergent → gentle hand wash → no wringing → towel-roll for excess water → dry in shade → gentle reverse-side ironing → clean, dry storage.**
-
-For embroidered or Chikankari Muslin, additional care is required. Nari18 recommends turning the garment inside out, using cold water and mild detergent, avoiding wringing, drying away from direct sunlight, and ironing on the reverse side with a cloth between the iron and fabric. Heavily embellished pieces may be better suited to professional dry cleaning.
-
-The individual product's care instructions should always override general Muslin-care guidance.

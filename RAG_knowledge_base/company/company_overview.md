@@ -213,6 +213,3 @@ Use this document when the customer asks broad company-level questions such as:
 - Does Nari18 work with traditional Indian fabrics?
 - Does Nari18 offer tailoring?
 
-For questions about specific products, prices, inventory, fabric properties, shipping conditions, returns, exchanges, measurements, or tailoring procedures, retrieve the corresponding specialized knowledge-base document instead of relying solely on this overview.
-
-Source: Nari18 official About page. The company website identifies Nari18 as a premium unstitched-suit and ethnic-wear boutique founded by Richa Singh in 2018 in Gurugram, and describes its tailoring, fabric sourcing, collection, boutique, and online-shopping offerings.

@@ -555,14 +555,3 @@ When answering customer questions about Silk care:
 16. Do not confuse care instructions with Nari18's return or exchange policy.
 17. Custom stitching does not change the basic care requirements of the underlying Silk fabric.
 
-## RAG Summary
-
-Nari18 Silk products should generally be treated as delicate premium garments.
-
-The safest general approach is:
-
-**Clean carefully → avoid unnecessary washing → avoid hot water and strong detergents → avoid rubbing and wringing → use low heat if ironing is permitted → protect embroidery and embellishments → store clean and dry → follow product-specific care instructions.**
-
-For expensive, embroidered or embellished Silk suits, professional dry cleaning is generally the preferred conservative option.
-
-The individual Nari18 product's care instructions should always take priority over this general Silk-care guide.

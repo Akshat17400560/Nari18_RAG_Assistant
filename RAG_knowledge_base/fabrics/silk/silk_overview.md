@@ -430,17 +430,3 @@ When answering questions about Nari18 Silk products:
 14. When discussing sizing, remember that an unstitched suit is fabric and can be tailored according to measurements where stitching is available.
 15. For exact product specifications, the individual Nari18 product page is the source of truth.
 
-## RAG Summary
-
-Nari18's Silk category is a premium unstitched-suit collection designed primarily for weddings, festive celebrations and formal ethnic occasions.
-
-Silk is a strong recommendation when the customer wants:
-
-- A rich and luxurious appearance
-- Traditional ethnic styling
-- Wedding or festive wear
-- Elegant drape
-- Premium fabric character
-- A suit that can potentially be custom stitched
-
-Nari18's current Silk collection contains 19 listed designs, while its fabric guides identify Banarasi Silk, Ikat Silk and Tussar Silk among the Silk varieties associated with the collection. Product counts, prices, stock and designs are dynamic and must be verified against the current Nari18 product pages.

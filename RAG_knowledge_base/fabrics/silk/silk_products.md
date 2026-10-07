@@ -505,25 +505,3 @@ When answering questions about Nari18 Silk products:
 22. For current recommendations, prefer products that are currently available rather than relying only on this document.
 23. If a product is no longer present on Nari18, do not present it as current inventory merely because it appears in this document.
 
-## RAG Summary
-
-Nari18's current Silk collection contains **19 listed designs** and includes several Silk styles, including classic Silk, Banarasi Silk, Ikat Silk, Raw Silk, embroidered Silk and motif-based designs.
-
-Representative current products include:
-
-- Classic Champagne Beige Unstitched Suit
-- Beautiful Dusty Mauve Unstitched Suit
-- Pink Silk Kundan Neckline Unstitched Suit
-- Premium Royal Blue Banarasi Silk Unstitched Suit
-- Vibrant Magenta Silk Unstitched Suit
-- Classic Cream With Contrast Dupatta Unstitched Suit
-- Royal Magenta Kashmiri Motifs Silk Unstitched Suit
-- Royal Blue & Amethyst Ikat Silk Unstitched Suit
-- Deep Red Ethnic Silk Unstitched Suit
-- Elegant Blush Pink Silk Unstitched Suit
-- Premium Lavender Colour Raw Silk Unstitched Suit
-- Soft Dusty Blue With Hand Embroidery Unstitched Suit
-
-The collection is intended primarily for customers seeking premium unstitched Silk ethnic wear for weddings, festive occasions, celebrations and formal styling.
-
-For RAG responses, this file should be used for **Silk product discovery and product-type understanding**, while the live Nari18 product page should be used to verify current price, availability, variants, exact fabric details, components, reviews and stitching options.

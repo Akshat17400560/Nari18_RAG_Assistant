@@ -430,14 +430,3 @@ When using this comparison document to answer customer questions:
 13. When recommending a fabric, consider occasion, season, desired appearance, comfort, maintenance and intended silhouette together.
 14. If a customer asks which fabric is "best," first identify what they are buying it for rather than declaring one universal best fabric.
 15. Custom stitching availability should be verified at the product level; fabric category alone should not be treated as proof that a specific product supports every customization option.
-
-## RAG Summary
-
-Nari18's fabric collection can broadly be understood through four major customer needs:
-
-- **Comfort and everyday wear:** Cotton, Mul-Cotton and Muslin
-- **Polished daytime and office wear:** Linen, Cotton and selected Muslin or Chanderi
-- **Festive and wedding wear:** Chanderi, Silk, Georgette, Organza and Tissue
-- **Evening and statement styling:** Organza, Georgette, Tissue, Silk, Chiffon and Crepe
-
-The correct recommendation depends on the customer's occasion, season, comfort preference, desired silhouette and styling goal. Current product-level information should always take priority over this general comparison.

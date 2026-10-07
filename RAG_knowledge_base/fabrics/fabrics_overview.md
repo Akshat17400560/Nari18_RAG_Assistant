@@ -322,9 +322,3 @@ When answering questions about Nari18 fabrics:
 10. If a user asks for current products made from a particular fabric, retrieve current catalog/product information instead of relying on this overview.
 11. Product counts shown in the catalog are dynamic and should not be treated as permanent facts.
 12. When recommending fabric, consider the customer's occasion, season, comfort requirements, desired appearance and whether custom stitching is available.
-
-## RAG Summary
-
-Nari18 is a fabric-led premium ethnic-wear brand with a catalog spanning multiple fabric categories, including Silk, Organza, Tissue, Muslin, Cotton, Linen, Georgette, Chanderi, Crepe, Chiffon, Lycra Net and Mul-Cotton. The catalog is primarily centered on unstitched suit sets, with custom stitching available on many products.
-
-For RAG responses, fabric recommendations should connect the customer's requirements—such as occasion, season, comfort, appearance and desired fit—to suitable fabric types while using the current product page to verify exact product-level information.

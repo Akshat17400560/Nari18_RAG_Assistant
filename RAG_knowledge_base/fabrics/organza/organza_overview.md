@@ -335,21 +335,3 @@ When answering questions about Nari18 Organza products:
 11. **Product components:** Do not assume every suit contains identical kurta, bottom, and dupatta materials.
 12. **Fabric properties:** Use "crisp," "structured," "lightweight," and "elegant" as general category characteristics rather than making unsupported claims about a specific product.
 13. **Dynamic information:** Current price, ratings, stock, discounts, and collection counts should be treated as storefront data and refreshed when answering transactional questions.
-
-## 16. RAG Summary
-
-**Organza at Nari18 = lightweight + crisp + structured + elegant + festive/occasion wear.**
-
-Key associations:
-
-- **Fabric:** Organza
-- **Category:** Premium unstitched ethnic wear
-- **Current collection:** 8 designs
-- **Best occasions:** Parties, receptions, formal dinners, weddings, festive evenings
-- **Style:** Elegant, structured, statement-making
-- **Common details:** Embroidery, floral designs, decorative work, premium finishes
-- **Tailoring:** Custom stitching available where offered
-- **Important tailoring consideration:** Lining and garment structure
-- **Care:** Handle delicately; follow exact product care instructions
-- **Storage:** Clean, dry, protected from direct light and crushing
-- **RAG priority:** Verify individual product details before making product-specific claims

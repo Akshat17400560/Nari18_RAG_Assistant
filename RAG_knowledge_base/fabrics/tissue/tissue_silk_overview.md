@@ -530,29 +530,3 @@ When answering questions about Nari18 Tissue Silk:
 17. Distinguish between a Tissue product and a product that merely contains Tissue detailing, such as a Tissue border or Tissue strips.
 
 
-# 24. RAG Summary
-
-**Nari18 Tissue Silk = shimmering + crisp + structured + festive + premium occasion wear.**
-
-### Core facts
-
-- **Fabric:** Tissue / Tissue Silk
-- **Current catalog count:** 11 Tissue designs
-- **Primary use:** Festive and occasion wear
-- **Best occasions:** Weddings, Karwa Chauth, poojas, evening celebrations
-- **Visual character:** Shimmering, metallic, luminous
-- **Structure:** Crisp and defined
-- **Decoration:** Can range from minimal to elaborate
-- **Common embellishments:** Zari, resham, embroidery, pearls, crystals, floral motifs, borders
-- **Care:** Nari18's general guide says dry clean only
-- **Format:** Primarily unstitched suit sets
-- **Custom stitching:** Available where offered
-- **General guide price range:** ₹3,200–₹6,500
-- **Current example:** Dusty Rose-Copper Suit at ₹5,157 at the time of review
-- **Product information:** Dynamic and should be refreshed for transactional questions
-
-### Most important RAG rule
-
-**Do not treat all Nari18 Tissue suits as identical.**
-
-For product-specific answers, verify the individual product page for fabric composition, components, embroidery, colour, price, availability, care, and tailoring options.

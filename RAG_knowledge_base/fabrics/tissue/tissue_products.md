@@ -93,12 +93,6 @@ The product features:
 
 The product is explicitly described as an **unstitched suit** and is positioned for weddings, festive occasions, and elegant evening wear.
 
-### RAG interpretation
-
-If a customer asks for a luxurious Tissue suit for a wedding or evening celebration, the Dusty Rose-Copper Suit is a relevant current example.
-
-Do not state that all Nari18 Tissue suits have pearl, crystal, zari, tassels, or the same three-fabric construction. These details belong specifically to this product unless another product page confirms them.
-
 
 ## 5. Moonstone Elegance Tissue Unstitched Suit
 
@@ -210,22 +204,6 @@ For example, the **Banarasi Cotton Unstitched Suit** uses:
 - Banarasi cotton for the bottom
 
 The product is categorized as a Banarasi Cotton suit rather than treating the entire suit as a Tissue suit. It was shown as sold out when reviewed.
-
-### Important RAG distinction
-
-If the user asks:
-
-> "Show me Tissue suits."
-
-Prefer products explicitly belonging to the Tissue collection or explicitly described as Tissue/Tissue Silk products.
-
-If the user asks:
-
-> "Do you have suits with Tissue detailing?"
-
-Products such as the Banarasi Cotton suit with a Tissue border or Tissue strips may also be relevant.
-
-This distinction prevents the RAG system from incorrectly classifying every product containing a Tissue border as a Tissue suit.
 
 
 ## 12. Tissue Products by Styling Level
@@ -340,36 +318,3 @@ When answering questions about Nari18 Tissue products:
 11. For care questions, use the dedicated Tissue care guidance and product-specific instructions rather than assuming every Tissue item has identical care requirements.
 12. For current prices or stock, prioritize the latest live product page.
 
-
-## 17. Quick Product Retrieval Examples
-
-### User: "What Tissue suits does Nari18 have?"
-
-Retrieve the current Tissue collection and provide products currently displayed as Tissue/Tissue Silk designs. Mention that the collection is dynamic.
-
-### User: "I want a Tissue suit for a wedding."
-
-Prioritize Tissue designs with rich festive detailing. The Dusty Rose-Copper Suit is a strong example because its product description specifically mentions zari, resham embroidery, pearl and crystal highlights, and wedding suitability.
-
-### User: "Do you have a blue Tissue suit?"
-
-The current collection includes a Powder Blue Tissue Silk Unstitched Suit.
-
-### User: "Do you have a mauve Tissue suit with mirror work?"
-
-The current collection includes a Mauve Mirror-Embellished Tissue Unstitched Suit.
-
-### User: "Is the Banarasi Cotton suit a Tissue suit?"
-
-No. Its main construction is Banarasi cotton, although it contains golden Tissue border and Tissue strip detailing.
-
-
-## 18. Summary
-
-Nari18's Tissue collection focuses on **festive, luminous, premium unstitched suits** designed for weddings, ceremonies, poojas, Karwa Chauth, receptions, and evening celebrations.
-
-Current examples include Moonstone Elegance, Pearl Heritage, Soft Imported Tissue, Dusty Rose-Copper, Mauve Mirror-Embellished, Powder Blue Tissue Silk, and Elegant Tissue suits. Availability and pricing are dynamic.
-
-The Dusty Rose-Copper Suit is a particularly detailed example, combining Tissue, woven-zari detailing, zari and resham embroidery, pearl and crystal accents, and a cotton-silk shantoon bottom.
-
-For RAG accuracy, the most important rule is to **distinguish complete Tissue/Tissue Silk products from other Nari18 products that merely contain Tissue borders or decorative Tissue elements**.
