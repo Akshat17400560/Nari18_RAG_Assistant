@@ -21,12 +21,10 @@ Nari18's product pages describe the checkout as safe and secure, with card, UPI 
 
 The exact payment methods available for a particular order can depend on the current checkout configuration, order value, delivery location and other applicable conditions.
 
----
 
 # 2. Payment Methods at a Glance
 
 | Payment Method | Available on Nari18 | Main Use |
-|---|---|---|
 | Cash on Delivery | Yes, where offered | Pay when order is delivered |
 | UPI | Yes | Fast prepaid online payment |
 | Debit/Credit Cards | Yes | Prepaid card payment |
@@ -35,7 +33,6 @@ The exact payment methods available for a particular order can depend on the cur
 
 Current Nari18 product pages explicitly display **“COD available”** and **“Razorpay (UPI / Cards)”**. They also state that cards, UPI and net banking are processed through secure, encrypted checkout.
 
----
 
 # 3. Cash on Delivery (COD)
 
@@ -65,7 +62,6 @@ Do not assume that COD is available for every:
 
 The current product pages show COD availability, but the checkout should be treated as the final authority for whether COD is offered for a particular order.
 
----
 
 # 4. UPI Payments
 
@@ -86,7 +82,6 @@ UPI can be useful for customers who want:
 
 Depending on the payment interface, the customer may be able to use a supported UPI application or UPI payment flow presented by the checkout.
 
----
 
 # 5. Debit and Credit Cards
 
@@ -104,7 +99,6 @@ Card payment can be used when customers prefer prepaid payment through:
 
 The exact card types and supported networks should be determined by the live payment page rather than assumed from the product page.
 
----
 
 # 6. Net Banking
 
@@ -114,7 +108,6 @@ A customer selecting net banking can complete the payment through the banking op
 
 The exact bank list may change and should be checked in the live Razorpay payment interface.
 
----
 
 # 7. Razorpay
 
@@ -134,7 +127,6 @@ The payment gateway handles supported prepaid payment methods such as:
 
 The exact methods shown can depend on the current Razorpay checkout configuration.
 
----
 
 # 8. Secure Payment
 
@@ -149,7 +141,6 @@ Customers should still follow normal online-payment security practices:
 - Do not provide banking credentials through WhatsApp or email.
 - Complete payment only through the official checkout/payment interface.
 
----
 
 # 9. Prepaid Payment Offer
 
@@ -167,12 +158,10 @@ The offer can change or be removed.
 
 The amount shown at the current checkout should always be treated as the final applicable prepaid price.
 
----
 
 # 10. COD vs Prepaid
 
 | Feature | COD | Prepaid |
-|---|---|---|
 | Payment timing | At delivery | Before order processing |
 | UPI required | No | Usually available |
 | Card required | No | Can be used |
@@ -183,7 +172,6 @@ The amount shown at the current checkout should always be treated as the final a
 
 If a prepaid incentive is active, prepaid payment may reduce the payable amount. Current Nari18 product pages show a ₹50 prepaid saving.
 
----
 
 # 11. How to Pay by UPI
 
@@ -201,7 +189,6 @@ A typical UPI payment flow is:
 
 The exact screens can change depending on the current Razorpay checkout.
 
----
 
 # 12. How to Pay by Card
 
@@ -219,7 +206,6 @@ A typical card payment flow is:
 
 Never share your OTP or card PIN with Nari18 staff or any other person.
 
----
 
 # 13. How to Pay by Net Banking
 
@@ -235,7 +221,6 @@ A typical net-banking flow is:
 
 The available bank list is controlled by the payment gateway and may change.
 
----
 
 # 14. How to Use Cash on Delivery
 
@@ -252,7 +237,6 @@ If COD is available:
 
 Do not assume that COD will appear for every order. The live checkout determines eligibility.
 
----
 
 # 15. Payment and Custom Stitching
 
@@ -272,7 +256,6 @@ Where stitching is offered, the applicable stitching option and charges should b
 
 Nari18's current product pages show a **Book a Tailor** option on many products, while some products explicitly provide stitched or size-based ordering options.
 
----
 
 # 16. Payment for Stitched Products
 
@@ -298,7 +281,6 @@ For stitched products:
 
 Do not confuse a stitched product with an unstitched product that offers custom tailoring.
 
----
 
 # 17. Payment Confirmation
 
@@ -315,7 +297,6 @@ Customers should retain:
 
 If the payment is debited but the order confirmation does not appear, contact Nari18 support with the transaction details.
 
----
 
 # 18. Payment Failure
 
@@ -339,7 +320,6 @@ If payment fails:
 
 Do not assume that a failed payment automatically means that no amount was temporarily debited.
 
----
 
 # 19. Amount Debited but Order Not Confirmed
 
@@ -374,7 +354,6 @@ Avoid sharing:
 - Card CVV unnecessarily
 - Full banking credentials
 
----
 
 # 20. Payment and Promotional Discounts
 
@@ -388,15 +367,6 @@ The current product pages show:
 
 These offers are promotional and can change over time.
 
-### RAG Rule
-
-If a customer asks:
-
-**"What discount do I get for prepaid payment?"**
-
-Use the current product/checkout information rather than treating ₹50 as a permanent policy.
-
----
 
 # 21. Payment and Shipping
 
@@ -415,7 +385,6 @@ The customer should review:
 
 at checkout before payment.
 
----
 
 # 22. Payment and Returns/Exchanges
 
@@ -430,7 +399,6 @@ A customer should therefore review the current policy before purchasing, especia
 - Sale products
 - Products with special tailoring requirements
 
----
 
 # 23. Payment Security Rules for Customers
 
@@ -456,7 +424,6 @@ For safe payment:
 
 Nari18 states that its card, UPI and net-banking payments are processed through secure, encrypted checkout.
 
----
 
 # 24. Payment Method Selection Guide
 
@@ -487,7 +454,6 @@ Nari18 states that its card, UPI and net-banking payments are processed through 
 - You want to complete payment immediately.
 - A current prepaid discount makes it beneficial.
 
----
 
 # 25. Common Payment Problems
 
@@ -518,64 +484,4 @@ The payment methods displayed are controlled by the current payment gateway. Che
 
 Check whether the current promotion applies to your product/order and verify the final checkout amount.
 
----
 
-# 26. Important RAG Retrieval Rules
-
-1. If the user asks **"What payment methods does Nari18 accept?"**, answer: COD, UPI, cards and net banking through Razorpay, subject to current checkout availability.
-2. If the user asks **"Does Nari18 have COD?"**, answer yes, current product pages show COD available; final eligibility should be checked at checkout.
-3. If the user asks **"Does Nari18 accept UPI?"**, answer yes, UPI is currently shown through Razorpay.
-4. If the user asks **"Does Nari18 accept cards?"**, answer yes, card payments are currently supported through the secure checkout/Razorpay.
-5. If the user asks **"Does Nari18 accept net banking?"**, answer yes, current product pages explicitly mention net banking.
-6. Do not claim that every payment method is available for every order.
-7. COD availability should be determined by the live checkout.
-8. Do not claim a permanent prepaid discount.
-9. The current product pages show a **₹50 prepaid saving**, but this is promotional and can change.
-10. Do not claim that COD receives the prepaid discount.
-11. Do not expose or request sensitive payment credentials.
-12. Never ask a customer for their UPI PIN, OTP, card PIN or banking password.
-13. If payment is debited but an order is not confirmed, advise checking the transaction and contacting Nari18 with the transaction/reference details.
-14. Do not guarantee how quickly a failed or reversed payment will be refunded unless the current Nari18/payment-provider policy confirms it.
-15. If the user asks about current payment options, prefer current product/checkout information over older documentation.
-16. Razorpay should be described as the payment gateway currently shown by Nari18, not as a guarantee that every future payment method will remain unchanged.
-17. Payment methods are separate from shipping eligibility.
-18. Payment method does not override Nari18's exchange/return policy.
-19. Custom-stitched orders are currently stated to be non-exchangeable.
-20. Current Nari18 product pages state that card, UPI and net-banking payments are processed through secure, encrypted checkout.
-
----
-
-# 27. Short RAG Answers
-
-**What payment methods does Nari18 accept?**  
-Nari18 currently supports COD, UPI, debit/credit cards and net banking through its online payment gateway, subject to checkout availability.
-
-**Does Nari18 offer Cash on Delivery?**  
-Yes. Current Nari18 product pages show COD available, but COD eligibility should be confirmed at checkout for the specific order.
-
-**Can I pay by UPI?**  
-Yes. UPI is currently supported through Razorpay.
-
-**Can I pay by debit or credit card?**  
-Yes. Card payments are currently processed through Nari18's secure checkout.
-
-**Does Nari18 accept net banking?**  
-Yes. Current product pages explicitly mention net banking as a supported payment method.
-
-**Which payment gateway does Nari18 use?**  
-Nari18 currently displays Razorpay for online payments.
-
-**Is Nari18 payment secure?**  
-Nari18 states that card, UPI and net-banking payments are processed through secure, encrypted checkout.
-
-**Is there a discount for prepaid payment?**  
-Current product pages show a ₹50 saving on prepaid payment. This is a promotional offer and can change.
-
-**What if my payment is deducted but my order is not confirmed?**  
-Check your bank/payment app and order status first. If the transaction was debited but the order is not confirmed, contact Nari18 with the payment/reference details. Do not immediately make another payment without checking the first transaction.
-
-**Can I pay for a custom-stitched order online?**  
-Payment for the product can be made through the available checkout methods. Any applicable stitching option or charges should be reviewed during the current ordering process.
-
-**Can I get COD for every product?**  
-Not necessarily. Current product pages show COD availability, but eligibility can depend on the specific order and should be verified at checkout.

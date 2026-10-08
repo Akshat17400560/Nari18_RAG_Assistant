@@ -25,7 +25,6 @@ A good office-wear suit should balance:
 
 For Nari18's unstitched suits, custom tailoring can further adapt the garment to the wearer's measurements and preferred silhouette where stitching is offered.
 
----
 
 ## 2. Best Nari18 Fabrics for Office Wear
 
@@ -85,12 +84,10 @@ Mul-Cotton is especially useful when the priority is:
 - Easy everyday styling
 - Relaxed professional appearance
 
----
 
 ## 3. Office-Wear Fabric Selection
 
 | Office Requirement | Recommended Fabric | Why |
-|---|---|---|
 | Regular daily office | Cotton | Breathable and versatile |
 | Formal-looking office outfit | Linen | Structured and sophisticated |
 | Peak summer comfort | Muslin / Mul-Cotton | Lightweight and airy |
@@ -102,7 +99,6 @@ Mul-Cotton is especially useful when the priority is:
 
 This is a styling framework rather than a strict product rule. Exact suitability depends on the specific fabric, design, colour and workplace environment.
 
----
 
 ## 4. Office-Wear Colour Direction
 
@@ -167,7 +163,6 @@ Suitable directions include:
 
 The colour should be considered together with embroidery, print scale and accessories. A dark colour with heavy embellishment can become more festive than professional.
 
----
 
 ## 5. Office-Wear Prints
 
@@ -187,7 +182,6 @@ Large, highly dramatic prints can still work in creative or relaxed workplaces, 
 
 For example, Nari18 currently has a Warm Mustard-Beige Printed Cotton Suit described as suitable for office wear, casual outings and everyday festive styling. Its design combines an all-over floral/paisley-inspired print with a contrasting maroon dupatta.
 
----
 
 ## 6. Office-Wear Embroidery and Embellishment
 
@@ -214,7 +208,6 @@ Office wear generally benefits from **controlled detailing** rather than maximum
 
 The goal is not to eliminate decoration. Instead, the decorative elements should support a polished professional appearance.
 
----
 
 ## 7. Office-Wear Silhouettes
 
@@ -255,7 +248,6 @@ Palazzo bottoms can be comfortable for long working hours, but the overall outfi
 
 Heavily flared Anarkali-style silhouettes are generally more festive than everyday office wear. They can be appropriate for workplaces with a more traditional dress culture or for special office celebrations.
 
----
 
 ## 8. Office-Wear Dupatta Styling
 
@@ -282,7 +274,6 @@ A simple shoulder drape or balanced front drape is usually easier to manage duri
 
 For very busy workdays, a lightweight and manageable dupatta may be more practical than a highly embellished or delicate one.
 
----
 
 ## 9. Office-Wear Jewellery
 
@@ -312,7 +303,6 @@ A slightly more polished combination can include:
 
 A highly embellished suit combined with heavy jewellery, dramatic footwear and a statement dupatta can quickly shift the look from office wear to festive wear.
 
----
 
 ## 10. Office-Wear Footwear
 
@@ -329,7 +319,6 @@ Suitable footwear directions include:
 
 For commuting-heavy schedules, comfortable footwear is generally more practical than very high heels.
 
----
 
 ## 11. Office Styling by Environment
 
@@ -377,7 +366,6 @@ The outfit should still remain comfortable and appropriate for the work environm
 
 Traditional cotton, Mul-Cotton, Muslin and Linen suits can be particularly effective. More colour and moderate ethnic detailing can be incorporated while maintaining a professional silhouette.
 
----
 
 ## 12. Office Wear by Season
 
@@ -419,7 +407,6 @@ Office styling can shift toward:
 
 Silk is positioned by Nari18 primarily toward festive and formal occasions, so it is generally better suited to special office events than routine daily office wear.
 
----
 
 ## 13. Office Wear for Meetings
 
@@ -439,7 +426,6 @@ Examples:
 
 Avoid combining too many statement elements at once.
 
----
 
 ## 14. Office Wear for Formal Lunches
 
@@ -456,7 +442,6 @@ A suitable formula is:
 
 For a slightly more festive professional lunch, restrained Chanderi or a lightly detailed Cotton suit may also work, depending on the environment.
 
----
 
 ## 15. Office Wear for Summer Commuting
 
@@ -473,7 +458,6 @@ Recommended:
 
 Nari18 specifically positions Mul-Cotton for summer, daily and office wear, while Muslin is positioned around lightweight comfort.
 
----
 
 ## 16. Custom Stitching for Office Wear
 
@@ -494,7 +478,6 @@ Nari18 states that tailoring can be selected where offered on individual product
 
 For office clothing, the best fit is generally one that allows comfortable sitting, walking, commuting and arm movement rather than an excessively tight or highly structured fit.
 
----
 
 ## 17. Office-Wear Fabric and Care Considerations
 
@@ -509,112 +492,3 @@ For frequently worn office suits:
 - Avoid selecting extremely delicate fabrics for routine commuting if maintenance would be inconvenient.
 - Check whether embroidery or prints require special handling.
 - Follow the exact care instructions for the individual product.
-
----
-
-## 18. Office-Wear Outfit Formulas
-
-### Everyday Office
-
-**Cotton + straight kurta + simple dupatta + flats**
-
-Best for regular working days.
-
-### Summer Office
-
-**Linen or Mul-Cotton + light colour + comfortable silhouette + minimal jewellery**
-
-Best for hot weather.
-
-### Comfortable Peak-Summer Day
-
-**Muslin + soft colour + lightweight dupatta + comfortable footwear**
-
-Best when maximum breathability is the priority.
-
-### Client Meeting
-
-**Linen/Cotton + structured silhouette + restrained colour + polished accessories**
-
-Best for professional meetings.
-
-### Formal Lunch
-
-**Linen + sophisticated colour + simple jewellery + elegant footwear**
-
-Best for business lunches or daytime professional events.
-
-### Creative Office
-
-**Printed Cotton/Muslin + contemporary silhouette + distinctive but controlled accessories**
-
-Best for workplaces with more flexibility.
-
----
-
-## 19. Quick Office-Wear Selection Guide
-
-| If the customer wants... | Start with... |
-|---|---|
-| Best everyday office fabric | Cotton |
-| Most polished summer office look | Linen |
-| Maximum summer comfort | Muslin / Mul-Cotton |
-| Easy daily ethnic wear | Cotton / Mul-Cotton |
-| Travel + office combination | Linen / Cotton |
-| Conservative professional appearance | Linen / understated Cotton |
-| Casual professional appearance | Cotton / Muslin |
-| Meeting-ready outfit | Structured Linen / Cotton |
-| Minimal office styling | Solid or subtly printed Linen/Cotton |
-| More relaxed creative-office styling | Printed Cotton / Muslin |
-
----
-
-## 20. Important RAG Retrieval Rules
-
-1. **For office-wear fabric questions**, prioritize Cotton and Linen because Nari18 explicitly identifies them as strong office-wear choices.
-
-2. **For peak-summer office comfort**, Muslin and Mul-Cotton can be recommended based on Nari18's current summer and collection guidance.
-
-3. Do not claim that every Cotton, Linen or Muslin product is automatically suitable for every workplace.
-
-4. Do not infer that a product is office-appropriate solely from its fabric. Consider colour, print, embroidery, silhouette and overall design.
-
-5. Do not describe Silk or Tissue as the default daily office fabric. Nari18 positions them more strongly toward festive, formal and celebratory dressing.
-
-6. Do not assume every product supports custom stitching. Verify the individual product or checkout option where necessary.
-
-7. Do not infer exact fibre composition from a product name. Use the product's individual Fabric Details section.
-
-8. Do not infer washability from the broad fabric category. Product-specific care instructions take priority.
-
-9. Office suitability is partly subjective and depends on workplace dress culture. Use terms such as “suitable for,” “good choice for,” or “works well for” rather than claiming one outfit is universally appropriate.
-
-10. Current product prices, stock status, ratings and discounts are dynamic and should be retrieved from the current product page rather than permanently embedded into styling answers.
-
----
-
-## 21. Short RAG Answers
-
-**Q: Which Nari18 fabric is best for office wear?**  
-A: Cotton and Linen are Nari18's strongest general choices for office wear. Muslin and Mul-Cotton are especially useful when summer comfort is the priority.
-
-**Q: Is Linen good for office wear?**  
-A: Yes. Nari18 specifically recommends Linen for workwear, office ethnic days and formal daytime occasions.
-
-**Q: Is Cotton suitable for daily office wear?**  
-A: Yes. Nari18 describes Cotton as ideal for office wear, casual outings and everyday use.
-
-**Q: What is best for a hot summer office?**  
-A: Cotton, Linen, Muslin and Mul-Cotton are strong options. Choose based on whether you prioritize structure, breathability or softness.
-
-**Q: Can I wear Muslin to the office?**  
-A: Yes. Muslin is a good option for comfortable, lightweight office dressing, particularly in warm weather.
-
-**Q: What silhouette is best for office wear?**  
-A: Straight-cut and A-Line silhouettes are versatile starting points because they provide a clean appearance while allowing comfortable movement.
-
-**Q: Should office suits have embroidery?**  
-A: Light or restrained embroidery can work well. Heavy festive embellishment is generally better reserved for occasions outside routine office wear.
-
-**Q: Can I custom stitch a Nari18 office suit?**  
-A: Custom stitching is available where offered on the individual product. Nari18 can provide guidance on measurements and styling for bespoke requirements.

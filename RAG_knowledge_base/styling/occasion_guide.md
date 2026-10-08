@@ -22,7 +22,6 @@ Nari18's detailed occasion guide further distinguishes between wedding guests an
 
 The recommendations in this document are **general styling guidance**. Individual product details, fabric composition, embroidery, colour, availability, and current product descriptions should always take priority.
 
----
 
 # 1. Wedding Occasions
 
@@ -71,7 +70,6 @@ For a wedding guest:
 - Coordinate footwear with the formality of the event.
 - Consider the time of day before selecting colour and fabric weight.
 
----
 
 # 2. Wedding Host or Close Family
 
@@ -97,7 +95,6 @@ A more formal wedding look can include:
 
 The outfit should still remain balanced. Heavy embroidery does not require every accessory to be equally heavy.
 
----
 
 # 3. Daytime Wedding
 
@@ -125,7 +122,6 @@ For daytime weddings:
 - Choose breathable construction for warm weather.
 - Keep jewellery elegant rather than excessively heavy.
 
----
 
 # 4. Evening Wedding or Reception
 
@@ -151,7 +147,6 @@ Suitable styling may include:
 
 Nari18's current fabric guide places Silk and Tissue in the formal wedding/bridal category and Organza and Georgette among evening-oriented fabrics.
 
----
 
 # 5. Sangeet
 
@@ -179,7 +174,6 @@ Consider:
 
 For heavily embellished garments, keep accessories coordinated rather than adding competing focal points.
 
----
 
 # 6. Mehendi
 
@@ -207,7 +201,6 @@ A Mehendi look can emphasize:
 
 The final recommendation should still consider the actual product design.
 
----
 
 # 7. Haldi
 
@@ -234,7 +227,6 @@ Consider:
 
 Nari18's current occasion guide specifically recommends pastel Chiffon or Georgette for Mehendi and Haldi functions.
 
----
 
 # 8. Roka or Engagement-Style Family Event
 
@@ -262,7 +254,6 @@ A good approach is:
 
 Nari18's summer fabric guide specifically lists Chanderi for roka ceremonies and festive daytime events.
 
----
 
 # 9. Diwali and Major Festive Events
 
@@ -293,7 +284,6 @@ Consider:
 
 If the suit already contains substantial zari or embroidery, jewellery can be simplified.
 
----
 
 # 10. Pooja and Religious/Festive Gatherings
 
@@ -319,7 +309,6 @@ A suitable look can include:
 - Lightweight dupatta
 - Breathable fabric for daytime events
 
----
 
 # 11. Office and Professional Events
 
@@ -375,7 +364,6 @@ Prefer:
 
 Avoid selecting a heavily embellished wedding-style suit simply because the fabric is premium.
 
----
 
 # 12. Business Lunches and Formal Day Events
 
@@ -401,7 +389,6 @@ A polished daytime look can use:
 - Refined colour palette
 - Light or moderate detailing
 
----
 
 # 13. Brunch
 
@@ -427,7 +414,6 @@ For brunch:
 - Use lightweight footwear.
 - Avoid unnecessary heavy layering.
 
----
 
 # 14. Casual Daily Wear
 
@@ -454,7 +440,6 @@ A daily-wear suit can use:
 
 Cotton is particularly useful for repeated wear because of its practical nature.
 
----
 
 # 15. Family Outings and Informal Gatherings
 
@@ -479,7 +464,6 @@ Aim for:
 
 Muslin is especially suitable when softness and relaxed drape are priorities.
 
----
 
 # 16. Evening Parties and Dinners
 
@@ -515,7 +499,6 @@ Georgette provides:
 
 Nari18's guide specifically notes that Georgette works across evening functions, receptions, and destination weddings.
 
----
 
 # 17. Cocktail-Style Ethnic Events
 
@@ -542,7 +525,6 @@ Consider:
 
 The product's own detailing should determine whether additional accessories are required.
 
----
 
 # 18. Formal Celebrations
 
@@ -569,7 +551,6 @@ Use:
 
 The distinction between formal and grand styling should be based on the event rather than price alone.
 
----
 
 # 19. Summer Events
 
@@ -610,7 +591,6 @@ Prefer:
 
 Georgette and lighter Organza can work when the event requires a more dressed-up appearance.
 
----
 
 # 20. Destination Weddings
 
@@ -641,7 +621,6 @@ Consider:
 
 For travel, the practical maintenance requirements of the fabric should also be considered.
 
----
 
 # 21. Travel-Friendly Occasion Dressing
 
@@ -666,12 +645,10 @@ Prioritize:
 - Less fragile embellishment
 - Fabrics suitable for the expected care conditions
 
----
 
 # 22. Occasion-to-Fabric Quick Reference
 
 | Occasion | Primary Nari18 Fabric Choices | General Styling Direction |
-|---|---|---|
 | Wedding guest | Chanderi, Silk | Festive, elegant, balanced |
 | Wedding host/family | Silk, Tissue | Rich, formal, statement |
 | Day wedding | Chanderi, Organza, Georgette | Light, elegant, comfortable |
@@ -696,7 +673,6 @@ Prioritize:
 
 This table is a general Nari18 styling framework rather than a guarantee that every product within a fabric category is suitable for every listed occasion.
 
----
 
 # 23. Choosing Between Two Fabrics for the Same Occasion
 
@@ -742,7 +718,6 @@ Nari18 specifically describes Chanderi as lighter for long wedding events and Si
 - Softer drape is preferred.
 - The customer wants a fluid festive look.
 
----
 
 # 24. Occasion + Season Combination
 
@@ -780,7 +755,6 @@ The same occasion can require different recommendations depending on the season.
 
 Nari18's fabric guidance consistently connects fabric selection to both occasion and climate.
 
----
 
 # 25. Occasion + Formality
 
@@ -803,7 +777,6 @@ Silk, Tissue, heavily embellished occasion wear
 
 This hierarchy is a general recommendation and should not override individual product characteristics.
 
----
 
 # 26. How to Recommend an Occasion Outfit
 
@@ -885,7 +858,6 @@ Then recommend:
 - Dupatta styling
 - Overall accessory level
 
----
 
 # 27. Important Occasion-Guide Limitations
 
@@ -903,71 +875,3 @@ Avoid claiming:
 - Every product can be custom stitched in every style.
 
 The actual product description and available fabric quantity should be checked before making a product-specific recommendation.
-
----
-
-# 28. RAG Retrieval Rules
-
-When answering an occasion-related question:
-
-1. Identify the **occasion first**.
-2. Identify whether it is daytime or evening.
-3. Consider season and climate.
-4. Determine the desired level of formality.
-5. Use Nari18's current fabric-to-occasion guidance.
-6. Check the individual product page for product-specific claims.
-7. Do not infer embroidery, fabric composition, colour, or embellishment from the occasion alone.
-8. Use the styling overview for broader outfit coordination.
-9. Use fabric-specific files for fabric properties and care.
-10. Use customization files for stitching, measurements, silhouettes, necklines, sleeves, and consultation.
-11. For wedding recommendations, distinguish **guest** from **host/family**.
-12. For summer recommendations, consider both comfort and occasion formality.
-13. When two fabrics are suitable, explain the trade-off instead of presenting one as universally superior.
-14. Treat prices, stock, product availability, and catalog counts as dynamic.
-15. If the customer wants a recommendation from current products, retrieve current product data rather than relying only on this general occasion guide.
-
----
-
-# 29. Short RAG Answers
-
-**What fabric is best for a wedding guest at Nari18?**  
-Chanderi and Silk are Nari18's primary wedding-guest choices. Chanderi is lighter and comfortable for long events, while Silk provides greater richness and presence.
-
-**What should I wear to a wedding if I am the host or close family?**  
-Silk or Tissue are strong choices when a richer, more formal appearance is desired.
-
-**What fabric is best for Diwali?**  
-Chanderi, Georgette and Silk are highlighted by Nari18 for Diwali and festive events. Tissue can also be appropriate for more grand styling.
-
-**What should I wear to a Mehendi or Haldi?**  
-Nari18 recommends Chiffon or Georgette in pastel colours for Mehendi and Haldi functions.
-
-**What fabric is best for office wear?**  
-Linen and Cotton are Nari18's strongest office-oriented choices, with Muslin also suitable for everyday and office styling.
-
-**What is good for everyday wear?**  
-Cotton and Muslin are strong everyday choices, while Linen works well when a more structured appearance is desired.
-
-**What should I wear to a summer wedding?**  
-For a daytime summer wedding, Chanderi, Organza or Georgette can work well depending on the product. Chanderi is particularly useful for festive summer occasions.
-
-**What is suitable for an evening party?**  
-Nari18 highlights Organza and Chiffon for evening and party wear, while Georgette, Silk and Tissue can be considered depending on the desired level of formality.
-
-**What fabric is best for a brunch?**  
-Muslin, Linen, Chanderi and Cotton are useful choices depending on whether the brunch is casual or festive.
-
-**What should I wear for a formal celebration?**  
-Silk, Tissue and Organza are strong options when a premium and sophisticated appearance is desired.
-
-**How should I choose a suit for an occasion?**  
-Start with the occasion, then consider time of day, season, desired formality, fabric, product detailing, silhouette, and accessories.
-
-**Can the same fabric work for different occasions?**  
-Yes. A fabric such as Silk, Chanderi or Georgette can work across multiple occasions depending on the product design, stitching, colour, silhouette and accessories.
-
-**Should I choose the fabric or occasion first?**  
-For recommendation purposes, identify the occasion first and then choose the fabric that best matches the required formality, comfort and climate.
-
-**Does every Nari18 suit in a fabric category work for the same occasions?**  
-No. The occasion guide provides general fabric guidance. Individual product details should be checked before making a specific recommendation.

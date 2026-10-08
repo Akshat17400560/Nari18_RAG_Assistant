@@ -22,7 +22,6 @@ The final festive look depends not only on fabric but also on the product's colo
 
 Nari18 currently offers 125+ unstitched suit sets across multiple fabric categories, including Silk, Organza, Chanderi, Georgette, Muslin, Tissue, Cotton, Linen and other occasion-oriented options.
 
----
 
 # 1. What Makes a Suit Festive?
 
@@ -45,7 +44,6 @@ A suit does not need to contain heavy embroidery to qualify as festive. A premiu
 
 Similarly, a heavily embroidered product does not automatically suit every festive occasion. Styling should match the formality of the event.
 
----
 
 # 2. Festive Fabric Selection
 
@@ -77,7 +75,6 @@ Silk works well with:
 
 Silk is especially useful when the customer wants a luxurious and formal appearance.
 
----
 
 # 3. Tissue and Tissue Silk
 
@@ -105,7 +102,6 @@ Tissue works well with:
 
 Because Tissue itself can have visual shine, accessories should be balanced rather than excessively layered.
 
----
 
 # 4. Chanderi
 
@@ -132,7 +128,6 @@ Chanderi can be paired with:
 - Pastel or rich festive colours
 - Elegant straight or A-line silhouettes
 
----
 
 # 5. Georgette
 
@@ -160,7 +155,6 @@ Consider:
 
 Georgette can provide a festive look without the visual weight of heavier fabrics.
 
----
 
 # 6. Organza
 
@@ -188,7 +182,6 @@ Organza works particularly well with:
 
 Because Organza can be sheer, lining and opacity should be considered when the garment is stitched.
 
----
 
 # 7. Chiffon
 
@@ -213,7 +206,6 @@ Consider:
 - Comfortable footwear
 - Easy dupatta draping
 
----
 
 # 8. Cotton, Muslin and Linen for Festive Daywear
 
@@ -250,7 +242,6 @@ Useful for:
 
 Nari18's broader fabric guidance places Cotton, Linen and Muslin in the everyday/office category, but these fabrics can be elevated through colour, embroidery, jewellery, and styling when the event is less formal.
 
----
 
 # 9. Diwali Festive Wear
 
@@ -299,7 +290,6 @@ Consider:
 
 The level of styling should match the formality of the celebration.
 
----
 
 # 10. Karwa Chauth
 
@@ -321,7 +311,6 @@ Consider:
 
 For a lighter daytime celebration, Chanderi or Georgette can also be considered depending on the individual product.
 
----
 
 # 11. Pooja and Religious Festivities
 
@@ -351,7 +340,6 @@ Styling can include:
 - Comfortable ethnic footwear
 - Controlled dupatta styling
 
----
 
 # 12. Roka and Engagement Celebrations
 
@@ -379,7 +367,6 @@ A refined Roka outfit can include:
 
 Silk can be chosen when the event is more formal or evening-oriented.
 
----
 
 # 13. Sangeet Festive Wear
 
@@ -408,7 +395,6 @@ Consider:
 
 If the event involves dancing or extended movement, comfort and secure dupatta styling should be considered alongside visual appeal.
 
----
 
 # 14. Mehendi Festive Wear
 
@@ -427,7 +413,6 @@ Nari18 recommends **Chiffon or Georgette in pastel colours** for Mehendi and Hal
 
 For an evening Mehendi, richer colours or more detailed products can be selected if appropriate.
 
----
 
 # 15. Haldi Festive Wear
 
@@ -456,7 +441,6 @@ Prioritize:
 
 Avoid making the outfit unnecessarily heavy when the event involves outdoor activity or movement.
 
----
 
 # 16. Festive Brunch
 
@@ -482,7 +466,6 @@ Consider:
 - Lightweight dupatta
 - Daytime-friendly footwear
 
----
 
 # 17. Festive Family Gathering
 
@@ -508,7 +491,6 @@ Aim for:
 
 The customer's relationship to the event matters. A host or close family member may prefer a richer look than a regular guest.
 
----
 
 # 18. Festive Evening Party
 
@@ -538,7 +520,6 @@ Evening festive styling can include:
 - Dressier footwear
 - Structured or elegant dupatta draping
 
----
 
 # 19. Festive Reception
 
@@ -564,7 +545,6 @@ Consider:
 
 Organza can provide a contemporary statement, while Silk or Tissue can provide a richer traditional appearance.
 
----
 
 # 20. Festive Colour Guide
 
@@ -621,7 +601,6 @@ Gold, copper and antique-metal tones can reinforce festive styling.
 
 Tissue is particularly useful when the customer wants a naturally shimmering appearance.
 
----
 
 # 21. Embroidery and Festive Styling
 
@@ -660,7 +639,6 @@ Nari18's current fabric guide identifies party-wear suits as including decorativ
 
 Do not assume a particular product contains one of these techniques unless its product description confirms it.
 
----
 
 # 22. Dupatta Styling for Festive Wear
 
@@ -701,7 +679,6 @@ Can create visual interest when:
 - Colours complement one another
 - The contrast does not overpower existing embroidery
 
----
 
 # 23. Jewellery Guide for Festive Wear
 
@@ -735,7 +712,6 @@ Traditional gold-toned or metallic jewellery can complement the richer character
 
 Contemporary statement earrings or elegant jewellery can work particularly well with their lighter visual character.
 
----
 
 # 24. Footwear for Festive Wear
 
@@ -761,7 +737,6 @@ Festive footwear should match both the occasion and outfit formality.
 
 When an event involves substantial walking or dancing, comfort should be considered alongside appearance.
 
----
 
 # 25. Festive Styling by Time of Day
 
@@ -811,7 +786,6 @@ For formal night celebrations:
 
 can create a stronger visual presence.
 
----
 
 # 26. Festive Wear by Season
 
@@ -849,7 +823,6 @@ Good options:
 
 Silk is particularly appropriate for winter weddings and grand celebrations according to Nari18's current fabric guide.
 
----
 
 # 27. Festive Styling by Formality
 
@@ -903,7 +876,6 @@ Fabric direction:
 - Organza
 - Heavily embellished occasion wear
 
----
 
 # 28. Festive Silhouette Guide
 
@@ -954,7 +926,6 @@ Good for:
 
 These silhouettes are styling/customization possibilities documented in Nari18's current custom-stitching guidance. Actual feasibility depends on the individual product.
 
----
 
 # 29. Balancing Festive Elements
 
@@ -988,7 +959,6 @@ Control additional metallic elements.
 
 This creates a more refined festive appearance.
 
----
 
 # 30. Festive Wear: Guest vs Host
 
@@ -1026,12 +996,10 @@ Aim for:
 
 Nari18's current occasion guide explicitly differentiates wedding-guest dressing from host/family dressing.
 
----
 
 # 31. Festive Wear Quick Reference
 
 | Occasion | Recommended Fabrics | Styling Direction |
-|---|---|---|
 | Diwali | Silk, Chanderi, Georgette, Tissue | Traditional, celebratory |
 | Karwa Chauth | Tissue, Silk, Chanderi | Traditional, elegant |
 | Pooja | Chanderi, Tissue, Cotton, Silk | Refined, comfortable |
@@ -1050,7 +1018,6 @@ Nari18's current occasion guide explicitly differentiates wedding-guest dressing
 
 This is a general styling framework based on Nari18's current fabric and occasion guidance, not a guarantee that every product within a category is suitable for every occasion.
 
----
 
 # 32. How to Choose a Festive Suit
 
@@ -1134,87 +1101,3 @@ Coordinate:
 - Dupatta
 - Overall accessories
 
----
-
-# 33. Festive Wear RAG Rules
-
-When answering Nari18 festive-wear questions:
-
-1. Identify the specific festive occasion first.
-2. Determine whether the event is daytime or evening.
-3. Consider season and weather.
-4. Determine whether the customer is a guest, host, or close family member.
-5. Use Nari18's current fabric-to-occasion guidance.
-6. Silk and Tissue should generally be treated as stronger options for grand/formal festive occasions.
-7. Chanderi and Georgette should generally be treated as versatile festive options.
-8. Organza and Chiffon should generally be considered for lighter evening/party styling.
-9. Cotton, Muslin and Linen should generally be considered for lighter daytime or summer festive occasions.
-10. Do not claim every product in a fabric category is suitable for every festive occasion.
-11. Do not infer embroidery, zari, mirror work, sequins, or other embellishment unless the product page explicitly confirms it.
-12. Do not infer exact colour from the product name alone.
-13. Do not treat a general fabric recommendation as a product recommendation.
-14. For current products, prices, stock and availability, check the current catalog/product page.
-15. For custom silhouettes, measurements, necklines and sleeves, use the customization knowledge base.
-16. For fabric care, use the corresponding fabric-specific care document.
-17. When recommending accessories, clearly distinguish general styling advice from officially documented Nari18 recommendations.
-18. If the customer is unsure between two fabrics, explain the difference in richness, comfort, structure and occasion suitability.
-19. Avoid recommending excessively heavy styling when the product already contains substantial embroidery or a statement dupatta.
-20. For personalized festive styling, Nari18's current website provides styling consultation through its design team and Gurugram boutique.
-
----
-
-# 34. Short RAG Answers
-
-**Which Nari18 fabric is best for festive wear?**  
-Silk, Tissue, Chanderi, Georgette and Organza are strong festive options, depending on the occasion and desired level of formality.
-
-**What should I wear for Diwali?**  
-Nari18 recommends Chanderi, Georgette or Silk for Diwali and festive events. Tissue is also suitable when a richer, more glamorous look is desired.
-
-**What is best for a wedding guest?**  
-Chanderi or Silk are Nari18's primary wedding-guest choices. Chanderi is lighter, while Silk provides a richer appearance.
-
-**What is best for a wedding host or close family member?**  
-Silk or Tissue are strong choices when maximum richness and visual presence are desired.
-
-**What should I wear for Sangeet?**  
-Silk, Organza, Georgette or Tissue can work well. Choose a silhouette that allows comfortable movement and coordinate the jewellery and dupatta with the garment.
-
-**What should I wear for Mehendi?**  
-Nari18 specifically recommends Chiffon or Georgette in pastel colours for Mehendi and Haldi functions.
-
-**What should I wear for Haldi?**  
-Lightweight Chiffon, Georgette, Cotton or Muslin can work well. Comfort and easy movement should be prioritized.
-
-**Is Chanderi good for festive wear?**  
-Yes. Nari18 positions Chanderi as a lightweight festive fabric suitable for wedding guests, Roka, Mehendi and festive brunches.
-
-**Is Silk only for weddings?**  
-No. Nari18's Silk collection is also positioned for Sangeet, Diwali, celebrations, festive occasions and refined styling.
-
-**Is Organza suitable for festive wear?**  
-Yes. Organza is particularly suitable for festive evenings, receptions, formal dinners and party styling.
-
-**Can Cotton be worn for festive occasions?**  
-Yes. Cotton can work for lighter daytime festivals and family celebrations, especially when styled with appropriate jewellery, footwear and a festive dupatta.
-
-**How do I make a simple suit look festive?**  
-Elevate it through jewellery, dupatta styling, festive footwear, a polished silhouette, and appropriate colour coordination rather than adding decoration everywhere.
-
-**Should festive wear always have heavy embroidery?**  
-No. Fabric, colour, weave, drape and styling can create a festive appearance even when embroidery is minimal.
-
-**How do I choose between Silk and Chanderi?**  
-Choose Chanderi when you want lightweight festive elegance, particularly for daytime or warm-weather events. Choose Silk when you want greater richness and formal presence.
-
-**How do I choose between Silk and Tissue?**  
-Silk provides a rich, regal festive appearance, while Tissue is particularly useful when you want shimmer, metallic character and grand-celebration styling.
-
-**Can Nari18 help me choose a festive outfit?**  
-Yes. Nari18 currently offers styling consultation online and at its Gurugram boutique, including fabric selection and styling guidance.
-
-**Can festive suits be custom stitched?**  
-Nari18 offers custom stitching on many pieces and provides measurement, lining and finishing guidance. Product-level stitching availability should be checked before ordering.
-
-**What is the most important thing when choosing festive wear?**  
-Match the fabric and styling level to the occasion first, then balance colour, silhouette, embroidery, dupatta, jewellery and footwear around the actual product.

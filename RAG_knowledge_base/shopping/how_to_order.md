@@ -15,9 +15,8 @@ The basic online ordering flow is:
 
 **Choose Product → Review Details → Add to Cart / Buy Now → Checkout → Enter Delivery Details → Payment → Order Confirmation → Optional Custom Stitching**
 
-Nari18 currently states that online orders are shipped across India, with free domestic shipping above ₹5,000 subject to current checkout thresholds and exceptions. ([nari18.com](https://nari18.com/?utm_source=chatgpt.com))
+Nari18 currently states that online orders are shipped across India, with free domestic shipping above ₹5,000 subject to current checkout thresholds and exceptions.
 
----
 
 # 2. Before Placing an Order
 
@@ -40,9 +39,8 @@ For unstitched suits, also check whether the product contains the expected:
 - Bottom fabric
 - Dupatta
 
-Nari18's buying guidance recommends checking product descriptions and components carefully before ordering. ([nari18.com](https://nari18.com/blog/how-to-choose-the-perfect-unstitched-suit-a-complete-guide-to-fabrics-occasions-custom-stitching?utm_source=chatgpt.com))
+Nari18's buying guidance recommends checking product descriptions and components carefully before ordering.
 
----
 
 # 3. Step 1 — Browse Nari18
 
@@ -63,7 +61,7 @@ The current catalog allows customers to browse products by categories and fabric
 - Mul-Cotton
 - Other available categories
 
-The exact product selection changes over time. ([nari18.com](https://nari18.com/catalog?utm_source=chatgpt.com))
+The exact product selection changes over time.
 
 ### Shopping Tip
 
@@ -77,7 +75,6 @@ Examples:
 **Party →** Organza / Georgette  
 **Grand festive →** Silk / Tissue
 
----
 
 # 4. Step 2 — Open the Product
 
@@ -101,7 +98,6 @@ Do not rely only on the collection thumbnail.
 
 The individual product page should be treated as the primary source for product-specific information.
 
----
 
 # 5. Step 3 — Verify the Product Details
 
@@ -137,7 +133,6 @@ If the product is shown as sold out or unavailable, do not assume that it can be
 
 Product availability is dynamic.
 
----
 
 # 6. Step 4 — Check the Current Price
 
@@ -154,7 +149,6 @@ Prices and discounts can change.
 
 The price shown during checkout should be treated as the final amount applicable to the current order.
 
----
 
 # 7. Step 5 — Choose Your Purchase Method
 
@@ -181,11 +175,10 @@ Use this when:
 
 The exact buttons and available options can vary by product and current website configuration.
 
----
 
 # 8. Step 6 — Decide Whether You Want Custom Stitching
 
-Nari18 offers custom stitching for unstitched suits, with the current homepage stating that stitching is available on many pieces and can be selected at checkout where offered. ([nari18.com](https://www.nari18.com/?utm_source=chatgpt.com))
+Nari18 offers custom stitching for unstitched suits, with the current homepage stating that stitching is available on many pieces and can be selected at checkout where offered.
 
 If you only want the fabric:
 
@@ -195,9 +188,8 @@ If you want Nari18 to stitch it:
 
 **Select the available stitching option or contact Nari18 for tailoring guidance.**
 
-Nari18's custom-stitching guides describe an after-order WhatsApp consultation for measurements and design preferences. ([nari18.com](https://nari18.com/blog/unstitched-vs-stitched-suits-which-is-right-for-you-a-complete-guide-to-every-suit-category?utm_source=chatgpt.com))
+Nari18's custom-stitching guides describe an after-order WhatsApp consultation for measurements and design preferences.
 
----
 
 # 9. Step 7 — Prepare Measurements for Custom Stitching
 
@@ -213,7 +205,7 @@ Nari18's current guides reference measurements such as:
 - Sleeve length
 - Bottom inseam where required
 
-Nari18 provides measurement guidance if the customer is unsure. ([nari18.com](https://nari18.com/blog/how-to-choose-the-perfect-unstitched-suit-a-complete-guide-to-fabrics-occasions-custom-stitching?utm_source=chatgpt.com))
+Nari18 provides measurement guidance if the customer is unsure.
 
 ### Measurement Tip
 
@@ -223,7 +215,6 @@ Avoid measuring over thick clothing.
 
 Accurate measurements are particularly important because custom-stitched orders are made to measure.
 
----
 
 # 10. Step 8 — Select Stitching Preferences
 
@@ -272,7 +263,6 @@ Discuss:
 
 The final options depend on the product, fabric, construction and tailoring requirements.
 
----
 
 # 11. Step 9 — Add the Product to the Cart
 
@@ -285,7 +275,6 @@ After reviewing the product and available options:
 
 If you are purchasing multiple products, repeat the process for each item.
 
----
 
 # 12. Step 10 — Review the Cart
 
@@ -306,7 +295,6 @@ Check:
 
 This is the last simple point to correct an accidental product or quantity selection before completing checkout.
 
----
 
 # 13. Step 11 — Proceed to Checkout
 
@@ -321,9 +309,8 @@ The checkout process should be used to verify the final:
 - Delivery details
 - Available payment method
 
-Nari18 describes its checkout as using encrypted payment processing for domestic and international cards. ([nari18.com](https://nari18.com/?utm_source=chatgpt.com))
+Nari18 describes its checkout as using encrypted payment processing for domestic and international cards. 
 
----
 
 # 14. Step 12 — Enter Delivery Information
 
@@ -344,38 +331,27 @@ Typically verify:
 ### Important
 
 The delivery address should be checked carefully before payment.
-
 An incorrect PIN code, incomplete address or incorrect phone number can create delivery problems.
 
----
 
 # 15. Step 13 — Check Shipping Charges
 
 Nari18 currently advertises free shipping for domestic orders above **₹5,000**.
 
-The homepage also notes that customers should check checkout for current thresholds and exceptions. ([nari18.com](https://nari18.com/?utm_source=chatgpt.com))
+The homepage also notes that customers should check checkout for current thresholds and exceptions. 
 
 Therefore:
 
 **Do not assume that every order ships free.**
-
 Always check the shipping line shown at checkout.
 
----
 
 # 16. Step 14 — Apply an Available Coupon
 
 If Nari18 provides a promotional coupon that applies to your order, enter it during the applicable checkout stage.
 
-The current Nari18 homepage advertises a first-order welcome offer of **5% off using WELCOME5**. Promotional offers are time-sensitive and can change. ([nari18.com](https://nari18.com/?utm_source=chatgpt.com))
+The current Nari18 homepage advertises a first-order welcome offer of **5% off using WELCOME5**. Promotional offers are time-sensitive and can change.
 
-### RAG Rule
-
-Never guarantee that a promotional code will work for every order.
-
-The checkout system should be treated as the final authority on whether a coupon is currently valid.
-
----
 
 # 17. Step 15 — Select Payment
 
@@ -390,9 +366,8 @@ Before confirming payment:
 - Check shipping
 - Check stitching charges if applicable
 
-Nari18 states that its payment processing is encrypted for domestic and international card payments. ([nari18.com](https://nari18.com/?utm_source=chatgpt.com))
+Nari18 states that its payment processing is encrypted for domestic and international card payments.
 
----
 
 # 18. Step 16 — Complete the Order
 
@@ -408,7 +383,6 @@ Save the available:
 
 Keep these details available if you later need to contact Nari18 about the order.
 
----
 
 # 19. Step 17 — Custom Stitching After Ordering
 
@@ -428,9 +402,8 @@ The team can coordinate:
 - Lining
 - Finishing
 
-Nari18 describes this as an after-order WhatsApp consultation with its in-house tailoring/design team. ([nari18.com](https://nari18.com/blog/unstitched-vs-stitched-suits-which-is-right-for-you-a-complete-guide-to-every-suit-category?utm_source=chatgpt.com))
+Nari18 describes this as an after-order WhatsApp consultation with its in-house tailoring/design team.
 
----
 
 # 20. Custom Stitching Order Flow
 
@@ -470,9 +443,8 @@ For customers who want a stitched garment, the process can be summarized as:
 
 **9. Finished suit is delivered**
 
-Nari18's current custom-stitching guide states that stitching generally takes around 3–7 days, while delivery timing is a separate consideration. Exact timing should be confirmed for the individual order. ([nari18.com](https://nari18.com/blog/unstitched-vs-stitched-suits-which-is-right-for-you-a-complete-guide-to-every-suit-category?utm_source=chatgpt.com))
+Nari18's current custom-stitching guide states that stitching generally takes around 3–7 days, while delivery timing is a separate consideration. Exact timing should be confirmed for the individual order.
 
----
 
 # 21. What Happens If You Order Only the Fabric?
 
@@ -500,9 +472,8 @@ Do not cut or stitch the fabric before checking it for:
 - Bottom fabric
 - Dupatta
 
-Nari18's current fabric-care guidance recommends inspecting unstitched fabric before cutting or stitching. ([nari18.com](https://nari18.com/blog/how-to-care-for-unstitched-suit-fabric-before-and-after-stitching?utm_source=chatgpt.com))
+Nari18's current fabric-care guidance recommends inspecting unstitched fabric before cutting or stitching.
 
----
 
 # 22. Order Timing
 
@@ -510,7 +481,7 @@ If the product is required for a specific event, order sufficiently in advance.
 
 This is especially important when requesting custom stitching.
 
-Nari18's current guide distinguishes stitching time from delivery time. Custom stitching is described as generally taking around **3–7 days**, while online delivery is separately described in the current guide. These are not the same timeline and should not automatically be combined into a guaranteed total. ([nari18.com](https://nari18.com/blog/unstitched-vs-stitched-suits-which-is-right-for-you-a-complete-guide-to-every-suit-category?utm_source=chatgpt.com))
+Nari18's current guide distinguishes stitching time from delivery time. Custom stitching is described as generally taking around **3–7 days**, while online delivery is separately described in the current guide.
 
 ### For Event Orders
 
@@ -525,7 +496,6 @@ If you need the suit for:
 
 confirm the expected delivery timeline with Nari18 before relying on a particular date.
 
----
 
 # 23. After Receiving the Order
 
@@ -561,13 +531,10 @@ Check:
 
 If something appears incorrect or defective, contact Nari18 promptly.
 
----
-
 # 24. Manufacturing Defect Exchange
 
 Nari18's current Promise states that exchange requests for manufacturing defects are accepted within **7 days**.
-
-Customers should provide clear photos or videos so the team can verify the issue. ([nari18.com](https://www.nari18.com/our-promise?utm_source=chatgpt.com))
+Customers should provide clear photos or videos so the team can verify the issue.
 
 ### Important
 
@@ -575,11 +542,10 @@ A manufacturing-defect exchange is different from simply changing your mind abou
 
 Always follow the current Nari18 Terms and Promise for the exact eligibility requirements.
 
----
 
 # 25. Custom-Stitched Order Policy
 
-Nari18 currently states that **custom-stitched orders are not eligible for exchange** because they are made to the customer's measurements. ([nari18.com](https://www.nari18.com/our-promise?utm_source=chatgpt.com))
+Nari18 currently states that **custom-stitched orders are not eligible for exchange** because they are made to the customer's measurements.
 
 Therefore, before custom stitching:
 
@@ -591,7 +557,6 @@ Therefore, before custom stitching:
 - Confirm lining requirements
 - Ask questions before the tailoring process begins
 
----
 
 # 26. Order Support
 
@@ -603,9 +568,8 @@ Current contact details include:
 - **Email:** info@nari18.com
 - **Email:** richa@nari18.com
 
-Nari18's contact page specifically states that WhatsApp can be used for custom stitching, tailoring appointments and online order support. ([nari18.com](https://nari18.com/contact?utm_source=chatgpt.com))
+Nari18's contact page specifically states that WhatsApp can be used for custom stitching, tailoring appointments and online order support.
 
----
 
 # 27. Boutique Ordering Alternative
 
@@ -634,9 +598,6 @@ The boutique can be used for:
 - Bespoke stitching
 - In-person fabric inspection
 
-([nari18.com](https://nari18.com/contact?utm_source=chatgpt.com))
-
----
 
 # 28. Complete Online Order Checklist
 
@@ -663,94 +624,3 @@ Before placing the order:
 - [ ] Return/exchange policy reviewed
 - [ ] Order confirmed
 - [ ] Order number saved
-
----
-
-# 29. Simple Ordering Examples
-
-## Example 1 — Buy an Unstitched Suit Only
-
-**Browse → Select suit → Review product → Add to cart → Checkout → Enter address → Payment → Order confirmation → Receive unstitched fabric**
-
----
-
-## Example 2 — Buy and Get It Custom Stitched
-
-**Browse → Select unstitched suit → Select stitching where offered → Checkout → Payment → WhatsApp Nari18 → Share measurements → Confirm design → Tailoring → Delivery**
-
----
-
-## Example 3 — Multiple Products
-
-**Select Product A → Add to cart → Select Product B → Add to cart → Review cart → Verify quantities/prices → Checkout → Payment → Confirmation**
-
----
-
-## Example 4 — Unsure About Fabric or Fit
-
-**Find product → Do not immediately order → Contact Nari18 → Ask about fabric/colour/stitching → Confirm details → Place order → Follow tailoring process if required**
-
----
-
-# 30. Important RAG Retrieval Rules
-
-1. If the user asks **"How do I order from Nari18?"**, answer with the sequence: select product → review → cart/Buy Now → checkout → address → payment → confirmation.
-2. If the user asks **"Can I order online?"**, answer yes; Nari18 ships across India. ([nari18.com](https://www.nari18.com/?utm_source=chatgpt.com))
-3. If the user asks **"How do I get my suit stitched?"**, explain the post-order WhatsApp consultation and measurement process.
-4. If the user asks **"What number should I WhatsApp after ordering?"**, provide +91 8826446755.
-5. If the user asks about current shipping charges, use the current checkout rather than assuming a fixed amount.
-6. Nari18 currently advertises free domestic shipping above ₹5,000, subject to current checkout thresholds and exceptions. ([nari18.com](https://www.nari18.com/?utm_source=chatgpt.com))
-7. If the user asks about a current coupon, verify the current website/checkout because promotional codes are time-sensitive.
-8. The current homepage advertises WELCOME5 for 5% off a first order; do not guarantee eligibility without checking checkout. ([nari18.com](https://www.nari18.com/?utm_source=chatgpt.com))
-9. Do not claim every product has the same checkout options.
-10. Do not claim custom stitching is included in the base product price.
-11. Do not assume every unstitched suit automatically includes tailoring.
-12. If custom stitching is requested, collect measurements and design preferences according to Nari18's current instructions.
-13. Do not guarantee a delivery date unless Nari18 confirms it for the specific order.
-14. Distinguish **stitching time** from **delivery time**.
-15. Current guidance describes custom stitching as generally taking 3–7 days; this should not be presented as a guaranteed total delivery time. ([nari18.com](https://nari18.com/blog/unstitched-vs-stitched-suits-which-is-right-for-you-a-complete-guide-to-every-suit-category?utm_source=chatgpt.com))
-16. For manufacturing defects, the current Promise states a 7-day exchange request window.
-17. Custom-stitched orders are currently stated to be non-exchangeable.
-18. If a customer is unsure about fabric, colour, measurements or tailoring, recommend contacting Nari18 before ordering.
-19. For product-specific information, prioritize the individual product page over general fabric or collection descriptions.
-20. Prices, discounts, stock, ratings and availability are dynamic and should be checked at the time of ordering.
-21. If the customer has already received an order and reports a suspected defect, advise them to contact Nari18 promptly and follow the current Promise/Terms.
-22. Do not advise the customer to cut, wash or stitch an unstitched product before resolving a suspected defect.
-23. Boutique customers can visit Nari18 in Gurugram for fabric selection, styling and bespoke stitching assistance. ([nari18.com](https://www.nari18.com/contact?utm_source=chatgpt.com))
-
----
-
-# 31. Short RAG Answers
-
-**How do I order from Nari18?**  
-Choose a product, review its details, add it to your cart or use Buy Now, proceed to checkout, enter your delivery information, review shipping and the final amount, then complete payment.
-
-**Can I order Nari18 suits online?**  
-Yes. Nari18 accepts online orders and ships across India. ([nari18.com](https://www.nari18.com/?utm_source=chatgpt.com))
-
-**How do I order an unstitched suit and get it stitched?**  
-Order the unstitched suit online, then contact Nari18 on WhatsApp at +91 8826446755 with your measurements and preferred styling. The in-house team guides you through the custom-stitching process. ([nari18.com](https://nari18.com/blog/unstitched-vs-stitched-suits-which-is-right-for-you-a-complete-guide-to-every-suit-category?utm_source=chatgpt.com))
-
-**What measurements are needed for custom stitching?**  
-Nari18's current guides reference bust, waist, hip, shoulder width, kurta length, sleeve length and, where required, bottom inseam. ([nari18.com](https://nari18.com/blog/how-to-choose-the-perfect-unstitched-suit-a-complete-guide-to-fabrics-occasions-custom-stitching?utm_source=chatgpt.com))
-
-**What is Nari18's WhatsApp number?**  
-+91 8826446755. It is used for custom stitching, tailoring guidance and online order support. ([nari18.com](https://nari18.com/contact?utm_source=chatgpt.com))
-
-**Is shipping free?**  
-Nari18 currently advertises free domestic shipping above ₹5,000. Check the checkout for the current applicable threshold and exceptions. ([nari18.com](https://nari18.com/?utm_source=chatgpt.com))
-
-**How long does custom stitching take?**  
-Nari18's current guide says custom stitching generally takes around 3–7 days. This is separate from delivery time and should not be treated as a guaranteed total delivery period. ([nari18.com](https://nari18.com/blog/unstitched-vs-stitched-suits-which-is-right-for-you-a-complete-guide-to-every-suit-category?utm_source=chatgpt.com))
-
-**Can I exchange a custom-stitched order?**  
-Nari18 currently states that custom-stitched orders are not eligible for exchange. ([nari18.com](https://www.nari18.com/our-promise?utm_source=turn0search8))
-
-**What if my order has a manufacturing defect?**  
-Nari18 currently accepts exchange requests for manufacturing defects within 7 days, with clear photos/videos requested for verification. ([nari18.com](https://www.nari18.com/our-promise?utm_source=turn0search8))
-
-**Can I visit Nari18 instead of ordering online?**  
-Yes. Nari18 has a boutique at SS Omnia, Sector 86, Gurugram, where customers can get fabric, styling and bespoke stitching assistance. ([nari18.com](https://nari18.com/contact?utm_source=turn0search1))
-
-**What should I do if I am unsure before ordering?**  
-Contact Nari18 before placing the order for product, fabric, colour, measurement or stitching guidance.

@@ -26,14 +26,12 @@ For Nari18 styling, comfort should be evaluated through several factors:
 
 Nari18's current fabric guides broadly position **Cotton, Mul-Cotton and Muslin** as the strongest choices for everyday comfort, while **Linen** combines comfort with a more structured appearance. Chanderi offers lighter festive luxury, while Silk, Tissue and Organza prioritize formal visual impact over maximum everyday comfort.
 
----
 
 # 2. Quick Comfort Ranking
 
 A practical Nari18 comfort hierarchy is:
 
 | Comfort Priority | Fabric | Main Comfort Character |
-|---|---|---|
 | Very High | Mul-Cotton / Mulmul | Extremely lightweight and breathable |
 | Very High | Muslin | Soft, airy and fluid |
 | High | Cotton | Breathable, practical and versatile |
@@ -48,7 +46,6 @@ A practical Nari18 comfort hierarchy is:
 
 This is a **styling comfort framework**, not a laboratory ranking. Actual comfort depends on the exact fabric composition, weave, weight, lining, embroidery, garment construction, weather and personal preference.
 
----
 
 # 3. Mul-Cotton / Mulmul — Maximum Lightweight Comfort
 
@@ -78,10 +75,8 @@ Nari18 describes Mulmul as extremely lightweight, breathable and almost gauzy, m
 ### Comfort considerations
 
 Because Mulmul can be lightweight and relatively sheer, the final garment may need an appropriate slip or lining depending on opacity.
-
 For maximum comfort, avoid unnecessarily heavy lining or excessive embellishment.
 
----
 
 # 4. Muslin — Soft, Airy and Fluid
 
@@ -121,7 +116,6 @@ Nari18 describes Muslin as exceptionally soft, lightweight and airy, with a deli
 
 Nari18's summer guide rates both Mulmul cotton and Muslin at the highest end of its summer breathability comparison.
 
----
 
 # 5. Cotton — Practical Everyday Comfort
 
@@ -164,7 +158,6 @@ For very hot weather, lightweight Mulmul/Mul-Cotton is generally the strongest c
 
 For a more structured everyday look, regular Cotton can be preferable.
 
----
 
 # 6. Linen — Breathable with Structure
 
@@ -200,7 +193,6 @@ Its strength is the combination of:
 
 Natural creasing is also part of Linen's characteristic appearance.
 
----
 
 # 7. Chanderi — Lightweight Festive Comfort
 
@@ -229,7 +221,6 @@ Nari18 describes Chanderi as lightweight with a sheer body and subtle shine, mak
 
 Chanderi provides more structure and festive character than Muslin or Cotton, but it may not feel as soft or relaxed for everyday wear.
 
----
 
 # 8. Georgette — Fluid Comfort for Events
 
@@ -261,7 +252,6 @@ A breathable lining or cotton slip may make a Georgette outfit more comfortable 
 
 For heavily embroidered Georgette, the decoration and lining can make the finished garment feel substantially different from plain Georgette.
 
----
 
 # 9. Chiffon — Lightweight and Flowing
 
@@ -290,7 +280,6 @@ Chiffon may require lining depending on transparency and garment construction.
 
 The final comfort should therefore be evaluated using the complete stitched outfit rather than the fabric alone.
 
----
 
 # 10. Crepe — Smooth and Fluid Comfort
 
@@ -316,7 +305,6 @@ Nari18's current fabric guidance positions Crepe for parties, dinners, evening e
 
 Crepe is generally more occasion-oriented than Cotton, Muslin or Linen. For maximum daytime comfort in hot weather, the lighter summer fabrics are usually preferable.
 
----
 
 # 11. Silk — Comfortable for Formal Wear, Not Maximum Summer Comfort
 
@@ -345,7 +333,6 @@ Nari18 positions Silk primarily for weddings, Sangeet, Diwali, bridal trousseau 
 
 Silk can be comfortable for long formal events, but it is generally not the first choice when the main requirement is maximum breathability in extreme heat.
 
----
 
 # 12. Organza — Visual Elegance over Soft Comfort
 
@@ -377,7 +364,6 @@ It should therefore not be confused with breathable everyday fabrics simply beca
 
 Lining and construction are particularly important.
 
----
 
 # 13. Tissue — Festive Comfort vs Maximum Comfort
 
@@ -412,12 +398,10 @@ Tissue should be selected primarily when festive appearance and structure are de
 
 For very long daytime wear in hot weather, Cotton, Muslin or Linen are usually more comfort-oriented choices.
 
----
 
 # 14. Fabric Comfort Comparison
 
 | Fabric | Softness | Breathability | Drape | Structure | Everyday Comfort |
-|---|---:|---:|---:|---:|---:|
 | Mul-Cotton | Very High | Very High | Soft | Low | Excellent |
 | Muslin | Very High | Very High | Very Fluid | Low | Excellent |
 | Cotton | High | High | Moderate | Moderate | Excellent |
@@ -432,7 +416,6 @@ For very long daytime wear in hot weather, Cotton, Muslin or Linen are usually m
 
 These are qualitative styling assessments based on Nari18's descriptions and intended use; they are not standardized fabric-performance measurements.
 
----
 
 # 15. Comfort by Weather
 
@@ -488,7 +471,6 @@ More formal and richer fabrics become comfortable choices:
 - Organza
 - Georgette
 
----
 
 # 16. Comfort by Duration of Wear
 
@@ -533,7 +515,6 @@ Prioritize:
 3. Muslin
 4. Mul-Cotton
 
----
 
 # 17. Comfort and Lining
 
@@ -563,9 +544,6 @@ Lining may be important because the fabric can be sheer and structured.
 
 The lining should be selected according to the exact fabric, embroidery, climate and desired drape.
 
-Do not automatically assume that heavier lining means better quality or better comfort.
-
----
 
 # 18. Comfort and Silhouette
 
@@ -614,7 +592,6 @@ Can be useful for:
 
 The combination of fabric and bottom construction affects overall comfort.
 
----
 
 # 19. Comfort and Embroidery
 
@@ -638,12 +615,10 @@ For hot weather and long daytime events, lighter embroidery is generally the mor
 
 For formal evening events, heavier embroidery can be acceptable because visual richness may be more important than maximum breathability.
 
----
 
 # 20. Comfort by Use Case
 
 | User Need | Recommended Fabrics |
-|---|---|
 | Maximum summer comfort | Mul-Cotton, Muslin, Cotton |
 | Softest feel | Muslin, Mul-Cotton |
 | Everyday practical wear | Cotton, Muslin |
@@ -658,7 +633,6 @@ For formal evening events, heavier embroidery can be acceptable because visual r
 | Lightweight but structured | Linen, Chanderi, Organza |
 | Fluid movement | Muslin, Georgette, Chiffon, Silk |
 
----
 
 # 21. Comfort vs Appearance Trade-Off
 
@@ -690,7 +664,6 @@ Organza / Tissue
 
 This does not mean one category is universally better. The right fabric depends on what the wearer values most for the specific occasion.
 
----
 
 # 22. Personal Comfort Preferences
 
@@ -723,7 +696,6 @@ For example:
 
 **Rich + formal preference →** Silk
 
----
 
 # 23. Custom Stitching for Better Comfort
 
@@ -742,93 +714,3 @@ Comfort can be improved through appropriate:
 - Bottom fit
 
 A fabric should not be judged only as a raw material. The final stitched construction can significantly influence comfort.
-
----
-
-# 24. Comfort-Based Fabric Decision Tree
-
-### Step 1 — Is maximum comfort the priority?
-
-**Yes →** Start with Mul-Cotton, Muslin or Cotton.
-
-### Step 2 — Is the outfit for office or professional wear?
-
-**Yes →** Consider Linen, Cotton or Muslin.
-
-### Step 3 — Is it a festive event but comfort is still important?
-
-**Yes →** Consider Chanderi.
-
-### Step 4 — Is it an evening event requiring movement?
-
-**Yes →** Consider Georgette or Chiffon.
-
-### Step 5 — Is luxury and formal appearance more important than everyday comfort?
-
-**Yes →** Consider Silk, Tissue or Organza.
-
-### Step 6 — Will the outfit be worn for many hours?
-
-**Yes →** Give extra attention to fabric weight, lining, embroidery and fit.
-
----
-
-# 25. Important RAG Retrieval Rules
-
-1. If the user asks **"Which Nari18 fabric is most comfortable?"**, prioritize **Mul-Cotton/Mulmul, Muslin and Cotton**.
-2. If the user asks for the **softest Nari18 fabric**, Muslin and Mul-Cotton are strong answers.
-3. If the user wants **comfortable office wear**, prioritize Linen, Cotton and Muslin.
-4. If the user wants **comfortable summer wear**, prioritize Cotton, Mul-Cotton, Muslin and Linen.
-5. If the user wants **comfortable festive wear**, Chanderi is a strong recommendation.
-6. If the user wants **comfortable evening wear**, Georgette or Chiffon can provide lightweight movement.
-7. If the user wants **luxury with formal comfort**, Silk is a stronger choice than Organza or Tissue for many situations.
-8. Do not claim that one fabric is universally the most comfortable for every person.
-9. Do not treat "lightweight" as automatically meaning "soft".
-10. Do not treat Organza as highly comfortable for daily wear merely because it is lightweight.
-11. Do not assume all products within a fabric category have identical softness or breathability.
-12. Lining, embroidery, embellishment and garment construction can materially change comfort.
-13. Product-specific composition should override generic fabric assumptions.
-14. Weather should be considered together with comfort rather than separately.
-15. For long-duration wear, prioritize fabric weight, breathability, fit and lining.
-16. Do not infer exact fibre composition from the fabric name alone.
-17. Current product availability, pricing and stock are dynamic and should be checked from the current product or collection page.
-18. Custom stitching can improve fit and comfort, but do not promise that every possible customization is available for every product.
-19. Comfort recommendations are guidance, not medical or dermatological advice.
-20. Product-specific care instructions should override general fabric-care assumptions.
-
----
-
-# 26. Short RAG Answers
-
-**Which Nari18 fabric is most comfortable for summer?**  
-Mul-Cotton/Mulmul, Muslin and Cotton are the strongest comfort choices. Nari18's summer guide specifically identifies cotton, linen and muslin as its top summer fabrics.
-
-**Which fabric feels the softest?**  
-Muslin and Mul-Cotton are strong choices when softness and lightweight comfort are the priority.
-
-**Which fabric is best for everyday comfort?**  
-Cotton and Muslin are the most practical starting points.
-
-**Which fabric is best for comfortable office wear?**  
-Linen, Cotton and Muslin are strong options. Linen gives a more structured and polished appearance.
-
-**Which fabric is comfortable for summer travel?**  
-Linen, Cotton and Muslin are good choices. Nari18 specifically positions Linen for travel-friendly summer wardrobes.
-
-**Which fabric is comfortable for a summer wedding?**  
-Chanderi is a strong choice when you want festive appearance with lighter construction; lightweight Georgette can work for evening events.
-
-**Is Silk comfortable?**  
-Silk can be very comfortable for formal wear because of its smooth and fluid drape, but it is generally not the first choice for maximum comfort in extreme summer heat.
-
-**Is Organza comfortable for daily wear?**  
-Organza is better suited to statement and formal occasions. Its crisp, structured character makes it less everyday-comfort-oriented than Cotton, Muslin or Linen.
-
-**Does lining affect comfort?**  
-Yes. Lining can significantly change how breathable, opaque and comfortable a finished suit feels.
-
-**Does custom stitching improve comfort?**  
-It can. Correct measurements, suitable ease, appropriate silhouette, sleeve length and lining can make the finished garment more comfortable. Nari18's custom-stitching process is designed around measurements and styling preferences.
-
-**What should I choose if comfort is more important than fashion?**  
-Start with Mul-Cotton, Muslin or Cotton. Then choose the silhouette and construction around your comfort needs.

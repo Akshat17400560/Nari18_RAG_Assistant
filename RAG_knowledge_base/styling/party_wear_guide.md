@@ -37,7 +37,6 @@ Party wear should generally balance:
 
 The objective is to create a noticeable occasion-ready look without necessarily making every party outfit heavily embellished.
 
----
 
 ## 2. Best Nari18 Fabrics for Party Wear
 
@@ -66,7 +65,6 @@ The structured nature of Organza makes it suitable for:
 
 Because Organza can be sheer and delicate, lining and finishing should be considered during custom stitching.
 
----
 
 ### Georgette
 
@@ -88,7 +86,6 @@ Georgette is particularly useful when the customer wants:
 - Draped styling
 - Feminine evening wear
 
----
 
 ### Chiffon
 
@@ -104,7 +101,6 @@ Chiffon can create a softer, more fluid appearance than Organza.
 
 Because Chiffon is delicate, product-specific care and tailoring requirements should be checked before stitching.
 
----
 
 ### Silk
 
@@ -121,7 +117,6 @@ Silk can work well for:
 
 Silk creates a richer appearance than everyday Cotton or Muslin, making it more appropriate when the event requires elevated dressing.
 
----
 
 ### Tissue Silk
 
@@ -139,7 +134,6 @@ Tissue is useful when the customer wants:
 
 Because Tissue can already provide significant visual impact through its surface, additional jewellery and embellishment should be balanced carefully.
 
----
 
 ### Chanderi
 
@@ -154,18 +148,15 @@ Nari18 positions Chanderi primarily toward:
 
 It can therefore work for daytime parties or elegant family gatherings where a lighter, more refined appearance is preferred.
 
----
 
 ### Crepe
 
 Nari18's current Crepe collection can also support party and casual-evening styling. Crepe can be considered when the customer wants a softer drape and a contemporary appearance without the structured effect of Organza.
 
----
 
 ## 3. Party-Wear Fabric Comparison
 
 | Fabric | Visual Character | Drape | Party Suitability | Best Direction |
-|---|---|---|---|---|
 | Organza | Crisp, elegant, refined | Structured | Very high | Evening parties |
 | Georgette | Flowing, graceful | Fluid | Very high | Parties and evening functions |
 | Chiffon | Lightweight, soft | Fluid | High | Summer/evening parties |
@@ -176,7 +167,6 @@ Nari18's current Crepe collection can also support party and casual-evening styl
 
 This table is a styling framework, not a guarantee that every product made from a particular fabric is party wear.
 
----
 
 ## 4. Party Wear by Time of Day
 
@@ -241,7 +231,6 @@ For a more glamorous night look:
 
 The outfit should still maintain balance between fabric, embroidery and accessories.
 
----
 
 ## 5. Party-Wear Colour Guide
 
@@ -306,7 +295,6 @@ For neutral outfits, the visual interest can come from:
 - Jewellery
 - Metallic footwear
 
----
 
 ## 6. Party-Wear Embellishment
 
@@ -366,7 +354,6 @@ Best for:
 
 The exact embellishment must always be confirmed from the individual product rather than inferred from its fabric category.
 
----
 
 ## 7. Party-Wear Silhouettes
 
@@ -427,7 +414,6 @@ Sharara-inspired bottoms can create a more celebratory appearance, especially fo
 
 The final silhouette should always be checked against the available fabric quantity, borders and embroidery.
 
----
 
 ## 8. Party-Wear Dupatta Styling
 
@@ -462,7 +448,6 @@ For parties:
 
 The most practical drape depends on the fabric and amount of embellishment.
 
----
 
 ## 9. Party-Wear Jewellery
 
@@ -499,7 +484,6 @@ For Tissue, heavily embellished Silk or statement Organza:
 
 However, the customer should generally choose one or two major jewellery elements rather than making every accessory a statement.
 
----
 
 ## 10. Party-Wear Footwear
 
@@ -531,8 +515,6 @@ Consider:
 - Statement footwear
 
 Comfort remains important, especially for parties involving extended standing or dancing.
-
----
 
 ## 11. Party-Wear Styling by Event
 
@@ -584,12 +566,10 @@ Recommended direction:
 
 Prioritize lighter colours and breathable construction where possible.
 
----
 
 ## 12. Party Wear: Day vs Evening
 
 | Feature | Day Party | Evening Party |
-|---|---|---|
 | Colour | Pastel, soft, neutral | Jewel, deep, metallic |
 | Fabric | Chanderi, Chiffon, light Georgette | Organza, Silk, Tissue, Georgette |
 | Embellishment | Light-moderate | Moderate-heavy |
@@ -598,7 +578,6 @@ Prioritize lighter colours and breathable construction where possible.
 | Dupatta | Lightweight | Decorative / statement |
 | Silhouette | A-Line / straight | A-Line / flared / statement |
 
----
 
 ## 13. Party Wear and Comfort
 
@@ -619,7 +598,6 @@ Before selecting or stitching a suit, consider:
 
 This is particularly important for Organza and embellished fabrics, where construction and finishing can affect comfort.
 
----
 
 ## 14. Custom Stitching for Party Wear
 
@@ -664,7 +642,6 @@ Possible directions include:
 
 Not every product can necessarily support every silhouette.
 
----
 
 ## 15. Fabric-Specific Party Styling
 
@@ -714,7 +691,6 @@ Best styling direction:
 
 **Elegant daytime silhouette + moderate embroidery + traditional accessories**
 
----
 
 ## 16. Party Wear and Accessories Balance
 
@@ -732,7 +708,6 @@ Examples:
 
 This creates a more intentional outfit than combining maximum decoration in every component.
 
----
 
 ## 17. Party-Wear Wardrobe Strategy
 
@@ -749,7 +724,6 @@ A useful combination can include:
 
 This gives the customer different levels of formality rather than multiple outfits with the same visual intensity.
 
----
 
 ## 18. Choosing the Right Party-Wear Look
 
@@ -797,12 +771,10 @@ If the suit is heavily decorated, reduce jewellery and vice versa.
 
 Make sure the final silhouette works for sitting, standing, walking and movement.
 
----
 
 ## 19. Quick Party-Wear Selection Guide
 
 | Customer wants... | Start with... |
-|---|---|
 | Elegant evening party look | Organza |
 | Flowing party outfit | Georgette |
 | Lightweight summer party look | Chiffon |
@@ -815,65 +787,3 @@ Make sure the final silhouette works for sitting, standing, walking and movement
 | Minimal party look | Light Georgette / Chiffon |
 | Statement outfit | Organza / Tissue |
 | Comfortable party outfit | Georgette / Chiffon |
-
----
-
-## 20. Important RAG Retrieval Rules
-
-1. For general **party-wear fabric** questions, prioritize Organza, Georgette and Chiffon because Nari18 explicitly positions them toward evening and party wear.
-
-2. Recommend Silk when the party is more formal, festive or celebratory rather than casual. Nari18's Silk collection emphasizes weddings, celebrations and festive occasions.
-
-3. Recommend Tissue Silk for grand, glamorous or high-formality events rather than ordinary casual parties.
-
-4. Chanderi can be recommended for lighter daytime celebrations, but it should not automatically be described as evening party wear.
-
-5. Do not infer that every Organza, Georgette or Silk product contains embroidery.
-
-6. Do not infer zari, mirror work, pearls, crystals, lace or other embellishments unless the individual product description explicitly states them.
-
-7. Do not infer the exact fibre composition of a product from the collection name alone.
-
-8. Do not assume every product supports every neckline, sleeve, silhouette or custom-stitching option. Verify the individual product or checkout where necessary.
-
-9. Product prices, stock, discounts and ratings are dynamic. Use the current product page for transactional questions.
-
-10. Party-wear suitability depends on the combination of fabric, colour, embellishment, silhouette, accessories and event formality.
-
-11. Organza requires particular care during tailoring because its structure, sheerness and delicate surface can affect lining, seams and finishing.
-
-12. Do not describe every party-wear outfit as suitable for weddings. Party wear ranges from casual evening gatherings to highly formal receptions.
-
----
-
-## 21. Short RAG Answers
-
-**Q: Which Nari18 fabric is best for party wear?**  
-A: Organza and Georgette are strong party-wear choices. Chiffon works well for lighter evening looks, while Silk and Tissue are better for more formal or glamorous occasions.
-
-**Q: Is Organza good for parties?**  
-A: Yes. Nari18 specifically positions Organza for parties, evening events, weddings and special occasions.
-
-**Q: Is Georgette suitable for evening parties?**  
-A: Yes. Nari18 describes Georgette as lightweight and graceful and suitable for parties, family functions and elegant evening looks.
-
-**Q: Which fabric should I choose for a glamorous party?**  
-A: Tissue Silk, Silk or embellished Organza can create a stronger glamorous appearance, depending on the formality of the event.
-
-**Q: What is better for a flowing party look?**  
-A: Georgette is a strong choice because of its lightweight, fluid and graceful character.
-
-**Q: What is better for a structured party look?**  
-A: Organza is particularly suitable because its crisp body can hold structured and sculptural silhouettes.
-
-**Q: What should I wear to a daytime party?**  
-A: Consider lighter Georgette, Chiffon or Chanderi, with softer colours and moderate accessories.
-
-**Q: What should I wear to an evening party?**  
-A: Organza, Georgette, Silk or Tissue can work well. Choose the fabric according to the event's formality and balance it with the right jewellery and footwear.
-
-**Q: Can a party-wear suit be custom stitched?**  
-A: Nari18 offers custom tailoring for its unstitched suits, with styling and measurement guidance; verify tailoring availability for the specific product when ordering.
-
-**Q: Does party wear have to be heavily embroidered?**  
-A: No. A rich fabric, elegant colour, distinctive silhouette or statement dupatta can create a party-ready look even with moderate embellishment.
