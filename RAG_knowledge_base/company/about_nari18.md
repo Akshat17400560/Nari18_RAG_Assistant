@@ -275,22 +275,4 @@ Nari18 differentiates its offering through the combination of:
 
 Rather than focusing only on ready-to-wear garments, the brand allows customers to participate in the creation of their final outfit.
 
-## Brand Identity Summary
-
-Nari18 can be understood through the following brand attributes:
-
-| Attribute | Nari18 Positioning |
-| Brand | Nari18 |
-| Founder | Richa Singh |
-| Established | 2018 |
-| Origin | Gurugram, Haryana |
-| Primary Category | Women's ethnic wear |
-| Core Product | Unstitched suit sets |
-| Core Service | Custom stitching |
-| Craft Focus | Indian traditional textile craftsmanship |
-| Artisan Focus | Lucknow, Chanderi, Jaipur and other Indian craft traditions |
-| Shopping Model | Online + physical boutique |
-| Tailoring Model | Made-to-measure |
-| Brand Philosophy | Quality fabric, craftsmanship, and personalized fit |
-
 

@@ -134,8 +134,6 @@ The listed boutique hours are:
 
 **Sunday:** Closed
 
-For current contact details and store information, use the dedicated `contact_information.md` and `boutique` documents.
-
 ## Customer Experience
 
 Nari18's customer experience is built around personalized ethnic-wear shopping rather than only selling ready-made garments.

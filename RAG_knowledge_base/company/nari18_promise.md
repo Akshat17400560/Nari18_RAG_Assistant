@@ -42,9 +42,6 @@ Customers can contact Nari18 for assistance with:
 - Sizing assistance
 - Custom-stitching questions
 
-## 5. Promise in One Sentence
-
-**Nari18 aims to provide a transparent and personalized shopping experience backed by clear policies, product guidance, and customer support.**
 
 ## RAG Usage
 
@@ -55,5 +52,3 @@ Use this document for questions such as:
 - Can custom-stitched orders be exchanged?
 - How long do I have to report a manufacturing defect?
 - Does Nari18 provide sizing help?
-
-For complete return, cancellation, shipping, and exchange conditions, use the **Terms & Conditions** document because the Our Promise page is only a summary of the key policies.

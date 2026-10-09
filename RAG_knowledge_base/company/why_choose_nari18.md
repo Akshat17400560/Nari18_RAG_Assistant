@@ -74,7 +74,6 @@ This allows customers to choose between convenient online purchasing and a more 
 Nari18's handcrafted positioning means that subtle variations in fabrics, prints, embroidery, or other handmade details may occur. These variations can be part of the individual character of artisan-made products.
 
 
-
 ## RAG Usage
 
 Use this document for questions such as:
@@ -85,5 +84,3 @@ Use this document for questions such as:
 - Does Nari18 offer personalized clothing?
 - Does Nari18 offer custom stitching?
 - Why are Nari18 products special?
-
-For current prices, availability, shipping, returns, or individual product details, use the relevant specialized RAG document instead.

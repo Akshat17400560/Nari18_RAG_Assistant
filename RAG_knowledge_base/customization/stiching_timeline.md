@@ -316,23 +316,6 @@ Customers should confirm the following before cutting:
 
 This reduces the possibility of delays caused by changes during construction.
 
-
-# Simple vs Complex Stitching Timeline
-
-| Type of construction | Timeline consideration |
-| Basic straight-cut suit | Usually simpler |
-| A-line suit | Moderate construction |
-| Flared Anarkali | More fabric planning and construction |
-| Palazzo bottom | Additional wide-leg construction |
-| Sharara | More elaborate bottom construction |
-| Heavy embroidery | Requires careful handling |
-| Layered design | Additional construction |
-| Special finishing | May require additional work |
-
-These categories do not represent separate guaranteed Nari18 turnaround times.
-The current published general stitching timeframe remains approximately **3–7 days**.
-
-
 # Urgent Orders
 
 Customers who need a suit for a specific date should not assume that the standard 3–7 day stitching estimate guarantees arrival before that date.
@@ -415,16 +398,3 @@ For customers planning around an event, a safer approach is:
 
 This is planning guidance, not a guarantee of a particular turnaround time.
 
-# Important Timeline Limitations
-
-- Nari18 currently publishes approximately **3–7 days for stitching**.
-- The current guide separately mentions **5–7 business days for delivery**.
-- Do not describe 3–7 days as a guaranteed delivery date.
-- Do not automatically add the stitching and delivery ranges together.
-- Complex garments may require more tailoring work.
-- Embroidery, delicate fabrics, lining, special finishing, and design complexity can affect the practical timeline.
-- Missing or unclear measurements can delay the start of stitching.
-- Design changes after confirmation can affect the timeline.
-- Urgent orders should be confirmed directly with Nari18 before relying on a specific event date.
-- The homepage currently promotes custom stitching but does not publish a separate fixed stitching SLA, so the individual order confirmation should take priority.
-- Website timelines can change, so current order/checkout communication should be treated as the final source for a specific order.

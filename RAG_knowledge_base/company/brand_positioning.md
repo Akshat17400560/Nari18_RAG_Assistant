@@ -374,23 +374,6 @@ The strongest differentiation is not any single feature in isolation.
 It is the combination of **fabric + craftsmanship + customization + boutique guidance**.
 
 
-# 18. Brand Positioning Compared With Generic Ready-to-Wear
-
-Nari18 can be understood through the following positioning contrast.
-
-| Generic Ready-to-Wear | Nari18 Approach |
-| Finished garment | Unstitched foundation |
-| Standard sizes | Custom measurements available |
-| Fixed design | Styling flexibility |
-| Mass-market presentation | Boutique presentation |
-| Fashion-first | Fabric and craft-first |
-| Standardized production | Artisan-inspired / handcrafted positioning |
-| Limited personalization | Custom stitching and consultation |
-| Transaction-focused | Guidance-oriented experience |
-
-This comparison should be used to explain the brand concept, not to make unsupported claims about competitors.
-
-
 # 19. Brand Personality
 
 Nari18's positioning suggests a brand personality that is:

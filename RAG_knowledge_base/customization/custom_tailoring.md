@@ -225,7 +225,6 @@ These elements can influence where the fabric should be cut.
 
 Nari18's fabric-care guidance recommends photographing the complete fabric set and close views of important design elements before cutting. This creates a reference for the tailor and helps preserve the intended placement of the design.
 
-The tailor should not arbitrarily cut through an important decorative panel or assume that all fabric pieces can be treated identically.
 
 ## Pre-Stitching Inspection
 

@@ -254,35 +254,5 @@ Nari18 positions itself around the combination of:
 
 The company presents unstitched clothing as a way for customers to personalize the final garment around their body measurements, preferred silhouette, and styling preferences.
 
-## Key Facts for RAG Retrieval
 
-Use this document when answering questions about:
-
-- Nari18
-- Nari18's founder
-- Nari18's founding year
-- Nari18's location
-- Nari18's business
-- Nari18's products
-- Nari18's fabric categories
-- Nari18's artisan focus
-- Nari18's custom stitching
-- Nari18's boutique
-- Nari18's contact details
-- Nari18's online store
-- Nari18's geographic reach
-- Nari18's general shipping availability
-
-Do not use this document as the authoritative source for:
-
-- Current product prices
-- Product inventory
-- Product-specific discounts
-- Product-specific reviews
-- Current shipping charges for an individual order
-- Return eligibility for a specific order
-- Exchange eligibility for a specific order
-- Product-specific fabric composition
-- Product-specific tailoring charges
-- Product-specific stitching timelines
 
