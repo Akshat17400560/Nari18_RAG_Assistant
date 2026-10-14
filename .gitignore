@@ -1,2 +1,4 @@
 .env
 backend/retriever_pinecone_testing.py
+backend/ingestion_pipeline_pinecone.py
+backend/__pycache__/
